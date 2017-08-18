@@ -1,0 +1,5203 @@
+<meta type="bio">
+<text_id text_id="GUM_bio_jespersen">
+<s_type s_type="frag">
+<head head="head">
+<pos pos="NP">
+<lemma lemma="Otto">
+Otto
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Jespersen">
+Jespersen
+</lemma>
+</pos>
+</head>
+</s_type>
+<s_type s_type="decl">
+<p p="p">
+<hi_rend hi_rend="bold">
+<pos pos="NP">
+<lemma lemma="Jens">
+Jens
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Otto">
+Otto
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Harry">
+Harry
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Jespersen">
+Jespersen
+</lemma>
+</pos>
+</hi_rend>
+<pos pos="CC">
+<lemma lemma="or">
+or
+</lemma>
+</pos>
+<hi_rend hi_rend="bold">
+<pos pos="NP">
+<lemma lemma="Otto">
+Otto
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Jespersen">
+Jespersen
+</lemma>
+</pos>
+</hi_rend>
+<pos pos="(">
+<lemma lemma="(">
+(
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="Danish">
+Danish
+</lemma>
+</pos>
+<pos pos=":">
+<lemma lemma=":">
+:
+</lemma>
+</pos>
+<pos pos="(">
+<lemma lemma="[">
+[
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="ʌtˢo">
+ʌtˢo
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="ˈjɛsb̥ɐsn̩">
+ˈjɛsb̥ɐsn̩
+</lemma>
+</pos>
+</ref>
+<pos pos=")">
+<lemma lemma="]">
+]
+</lemma>
+</pos>
+<pos pos=":">
+<lemma lemma=";">
+;
+</lemma>
+</pos>
+<date_when date_when="1860-07-16">
+<pos pos="CD">
+<lemma lemma="@card@">
+16
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="July">
+July
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+1860
+</lemma>
+</pos>
+</date_when>
+<pos pos="SYM">
+<lemma lemma="–">
+–
+</lemma>
+</pos>
+<date_when date_when="1943-04-30">
+<pos pos="CD">
+<lemma lemma="@card@">
+30
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="April">
+April
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+1943
+</lemma>
+</pos>
+</date_when>
+<pos pos=")">
+<lemma lemma=")">
+)
+</lemma>
+</pos>
+<pos pos="VBD">
+<lemma lemma="be">
+was
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="JJ">
+<lemma lemma="Danish">
+Danish
+</lemma>
+</pos>
+</ref>
+<ref ref="ref">
+<pos pos="NN">
+<lemma lemma="linguist">
+linguist
+</lemma>
+</pos>
+</ref>
+<pos pos="WP">
+<lemma lemma="who">
+who
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="specialize">
+specialized
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="grammar">
+grammar
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="JJ">
+<lemma lemma="English">
+English
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="language">
+language
+</lemma>
+</pos>
+</ref>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</p>
+</s_type>
+<s_type s_type="frag">
+<head head="head">
+<pos pos="JJ">
+<lemma lemma="early">
+Early
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="life">
+life
+</lemma>
+</pos>
+</head>
+</s_type>
+<p p="p">
+<s_type s_type="decl">
+<pos pos="NP">
+<lemma lemma="Otto">
+Otto
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Jespersen">
+Jespersen
+</lemma>
+</pos>
+<pos pos="VBD">
+<lemma lemma="be">
+was
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="bear">
+born
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="Randers">
+Randers
+</lemma>
+</pos>
+</ref>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="Jutland">
+Jutland
+</lemma>
+</pos>
+</ref>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="he">
+He
+</lemma>
+</pos>
+<pos pos="VBD">
+<lemma lemma="be">
+was
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="inspire">
+inspired
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="by">
+by
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="work">
+work
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="Danish">
+Danish
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="philologist">
+philologist
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="Rasmus">
+Rasmus
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Rask">
+Rask
+</lemma>
+</pos>
+</ref>
+<pos pos="IN">
+<lemma lemma="as">
+as
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="boy">
+boy
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="with">
+with
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="help">
+help
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Rask">
+Rask
+</lemma>
+</pos>
+<pos pos="POS">
+<lemma lemma="'s">
+'s
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="grammar">
+grammars
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="teach">
+taught
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="himself">
+himself
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="some">
+some
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Icelandic">
+Icelandic
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Italian">
+Italian
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Spanish">
+Spanish
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="he">
+He
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="enter">
+entered
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="University">
+University
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Copenhagen">
+Copenhagen
+</lemma>
+</pos>
+</ref>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1877">
+1877
+</date_when>
+</lemma>
+</pos>
+<pos pos="WRB">
+<lemma lemma="when">
+when
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="he">
+he
+</lemma>
+</pos>
+<pos pos="VBD">
+<lemma lemma="be">
+was
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+17
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="initially">
+initially
+</lemma>
+</pos>
+<pos pos="VVG">
+<lemma lemma="study">
+studying
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="law">
+law
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="but">
+but
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="not">
+not
+</lemma>
+</pos>
+<pos pos="VVG">
+<lemma lemma="forget">
+forgetting
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="language">
+language
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="study">
+studies
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="IN">
+<lemma lemma="in">
+In
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1881">
+1881
+</date_when>
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="he">
+he
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="shift">
+shifted
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="focus">
+focus
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="completely">
+completely
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="language">
+languages
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1887">
+1887
+</date_when>
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="earn">
+earned
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="master">
+master
+</lemma>
+</pos>
+<pos pos="POS">
+<lemma lemma="'s">
+'s
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="degree">
+degree
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="French">
+French
+</lemma>
+</pos>
+</ref>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="with">
+with
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="English">
+English
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="Latin">
+Latin
+</lemma>
+</pos>
+</ref>
+<pos pos="IN">
+<lemma lemma="as">
+as
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="secondary">
+secondary
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="language">
+languages
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="he">
+He
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="support">
+supported
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="himself">
+himself
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="during">
+during
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="study">
+studies
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="through">
+through
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="part-time">
+part-time
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="work">
+work
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="as">
+as
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="schoolteacher">
+schoolteacher
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="as">
+as
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="shorthand">
+shorthand
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="reporter">
+reporter
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="Danish">
+Danish
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="parliament">
+parliament
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="IN">
+<lemma lemma="in">
+In
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1887">
+1887
+</date_when>
+</lemma>
+</pos>
+<pos pos="SYM">
+<lemma lemma="–">
+–
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1888">
+1888
+</date_when>
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="he">
+he
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="travel">
+traveled
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="England">
+England
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Germany">
+Germany
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="France">
+France
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="VVG">
+<lemma lemma="meet">
+meeting
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="linguist">
+linguists
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="like">
+like
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="Henry">
+Henry
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Sweet">
+Sweet
+</lemma>
+</pos>
+</ref>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="Paul">
+Paul
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Passy">
+Passy
+</lemma>
+</pos>
+</ref>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="VVG">
+<lemma lemma="attend">
+attending
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="lecture">
+lectures
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="at">
+at
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="institution">
+institutions
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="like">
+like
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="Oxford">
+Oxford
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="University">
+University
+</lemma>
+</pos>
+</ref>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="VVG">
+<lemma lemma="follow">
+Following
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="advice">
+advice
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="mentor">
+mentor
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="Vilhelm">
+Vilhelm
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Thomsen">
+Thomsen
+</lemma>
+</pos>
+</ref>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="he">
+he
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="return">
+returned
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Copenhagen">
+Copenhagen
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<date_when date_when="1888-08">
+<pos pos="NP">
+<lemma lemma="August">
+August
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+1888
+</lemma>
+</pos>
+</date_when>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="begin">
+began
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="work">
+work
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="on">
+on
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="doctoral">
+doctoral
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="dissertation">
+dissertation
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="on">
+on
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="English">
+English
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NN">
+<lemma lemma="case">
+case
+</lemma>
+</pos>
+</ref>
+<pos pos="NN">
+<lemma lemma="system">
+system
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="he">
+He
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="successfully">
+successfully
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="defend">
+defended
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="dissertation">
+dissertation
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1891">
+1891
+</date_when>
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+</p>
+<s_type s_type="frag">
+<head head="head">
+<pos pos="JJ">
+<lemma lemma="academic">
+Academic
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="life">
+life
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="work">
+work
+</lemma>
+</pos>
+</head>
+</s_type>
+<p p="p">
+<s_type s_type="decl">
+<pos pos="NP">
+<lemma lemma="Jespersen">
+Jespersen
+</lemma>
+</pos>
+<pos pos="VBD">
+<lemma lemma="be">
+was
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="professor">
+professor
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="English">
+English
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="at">
+at
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="University">
+University
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Copenhagen">
+Copenhagen
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="from">
+from
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1893">
+1893
+</date_when>
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1925">
+1925
+</date_when>
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="serve">
+served
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="as">
+as
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="rector">
+Rector
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="university">
+university
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1920">
+1920
+</date_when>
+</lemma>
+</pos>
+<pos pos="SYM">
+<lemma lemma="–">
+–
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1921">
+21
+</date_when>
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP$">
+<lemma lemma="his">
+His
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="early">
+early
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="work">
+work
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="focus">
+focused
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="primarily">
+primarily
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="on">
+on
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="language">
+language
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="teaching">
+teaching
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="reform">
+reform
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="on">
+on
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="phonetics">
+phonetics
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="but">
+but
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="he">
+he
+</lemma>
+</pos>
+<pos pos="VBZ">
+<lemma lemma="be">
+is
+</lemma>
+</pos>
+<pos pos="RBS">
+<lemma lemma="well">
+best
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="know">
+known
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="for">
+for
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="JJR">
+<lemma lemma="late">
+later
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="work">
+work
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="on">
+on
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="syntax">
+syntax
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="on">
+on
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="language">
+language
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="development">
+development
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+</p>
+<p p="p">
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="he">
+He
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="advance">
+advanced
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="theory">
+theories
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="rank">
+Rank
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<ref_rend ref_rend="italics">
+<pos pos="NN">
+<lemma lemma="nexus">
+Nexus
+</lemma>
+</pos>
+</ref_rend>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="Danish">
+Danish
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="two">
+two
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="paper">
+papers
+</lemma>
+</pos>
+<pos pos=":">
+<lemma lemma=":">
+:
+</lemma>
+</pos>
+<hi_rend hi_rend="italics">
+<pos pos="FW">
+<lemma lemma="Sprogets">
+Sprogets
+</lemma>
+</pos>
+<pos pos="FW">
+<lemma lemma="logik">
+logik
+</lemma>
+</pos>
+</hi_rend>
+<pos pos="(">
+<lemma lemma="(">
+(
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1913">
+1913
+</date_when>
+</lemma>
+</pos>
+<pos pos=")">
+<lemma lemma=")">
+)
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<hi_rend hi_rend="italics">
+<pos pos="FW">
+<lemma lemma="De">
+De
+</lemma>
+</pos>
+<pos pos="FW">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="FW">
+<lemma lemma="hovedarter">
+hovedarter
+</lemma>
+</pos>
+<pos pos="FW">
+<lemma lemma="af">
+af
+</lemma>
+</pos>
+<pos pos="FW">
+<lemma lemma="grammatiske">
+grammatiske
+</lemma>
+</pos>
+<pos pos="FW">
+<lemma lemma="forbindelser">
+forbindelser
+</lemma>
+</pos>
+</hi_rend>
+<pos pos="(">
+<lemma lemma="(">
+(
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1921">
+1921
+</date_when>
+</lemma>
+</pos>
+<pos pos=")">
+<lemma lemma=")">
+)
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="NP">
+<lemma lemma="Jespersen">
+Jespersen
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<sic sic="sic">
+<pos pos="DT">
+<lemma lemma="this">
+this
+</lemma>
+</pos>
+</sic>
+<pos pos="NN">
+<lemma lemma="theory">
+theory
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="rank">
+ranks
+</lemma>
+</pos>
+<pos pos="VVZ">
+<lemma lemma="remove">
+removes
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="part">
+parts
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="speech">
+speech
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="from">
+from
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="syntax">
+syntax
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="VVZ">
+<lemma lemma="differentiate">
+differentiates
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="between">
+between
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="primary">
+primaries
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="secondary">
+secondaries
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="tertiaries">
+tertiaries
+</lemma>
+</pos>
+<pos pos=":">
+<lemma lemma=";">
+;
+</lemma>
+</pos>
+<pos pos="FW">
+<lemma lemma="e.g.">
+e.g.
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<q q="q">
+<pos pos="``">
+<lemma lemma="''">
+"
+</lemma>
+</pos>
+<hi_rend hi_rend="italics">
+<pos pos="RB">
+<lemma lemma="well">
+well
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="hone">
+honed
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="phrase">
+phrase
+</lemma>
+</pos>
+</hi_rend>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="''">
+<lemma lemma="''">
+"
+</lemma>
+</pos>
+</q>
+<q q="q">
+<pos pos="``">
+<lemma lemma="''">
+"
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="phrase">
+phrase
+</lemma>
+</pos>
+<pos pos="''">
+<lemma lemma="''">
+"
+</lemma>
+</pos>
+</q>
+<pos pos="VBZ">
+<lemma lemma="be">
+is
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="primary">
+primary
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="this">
+this
+</lemma>
+</pos>
+<pos pos="VBG">
+<lemma lemma="be">
+being
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="define">
+defined
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="by">
+by
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="secondary">
+secondary
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<q q="q">
+<pos pos="``">
+<lemma lemma="''">
+"
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="hone">
+honed
+</lemma>
+</pos>
+<pos pos="''">
+<lemma lemma="''">
+"
+</lemma>
+</pos>
+</q>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="WDT">
+<lemma lemma="which">
+which
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="again">
+again
+</lemma>
+</pos>
+<pos pos="VBZ">
+<lemma lemma="be">
+is
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="define">
+defined
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="by">
+by
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="tertiary">
+tertiary
+</lemma>
+</pos>
+<q q="q">
+<pos pos="``">
+<lemma lemma="''">
+"
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="well">
+well
+</lemma>
+</pos>
+<pos pos="''">
+<lemma lemma="''">
+"
+</lemma>
+</pos>
+</q>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="DT">
+<lemma lemma="the">
+The
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="term">
+term
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="nexus">
+<hi_rend hi_rend="italics">
+Nexus
+</hi_rend>
+</lemma>
+</pos>
+<pos pos="VBZ">
+<lemma lemma="be">
+is
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="apply">
+applied
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="sentence">
+sentences
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="structure">
+structures
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="similar">
+similar
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="sentence">
+sentences
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="sentence">
+sentences
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="formation">
+formation
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="WDT">
+<lemma lemma="which">
+which
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="two">
+two
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="concept">
+concepts
+</lemma>
+</pos>
+<pos pos="VBP">
+<lemma lemma="be">
+are
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="express">
+expressed
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="one">
+one
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="unit">
+unit
+</lemma>
+</pos>
+<pos pos=":">
+<lemma lemma=";">
+;
+</lemma>
+</pos>
+<pos pos="FW">
+<lemma lemma="e.g.">
+e.g.
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<hi_rend hi_rend="italics">
+<pos pos="PP">
+<lemma lemma="it">
+it
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="rain">
+rained
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="he">
+he
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="run">
+ran
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="indoors">
+indoors
+</lemma>
+</pos>
+</hi_rend>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="DT">
+<lemma lemma="this">
+This
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="term">
+term
+</lemma>
+</pos>
+<pos pos="VBZ">
+<lemma lemma="be">
+is
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="qualify">
+qualified
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="by">
+by
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="JJR">
+<lemma lemma="further">
+further
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="concept">
+concept
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="call">
+called
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="junction">
+<hi_rend hi_rend="italics">
+junction
+</hi_rend>
+</lemma>
+</pos>
+<pos pos="WDT">
+<lemma lemma="which">
+which
+</lemma>
+</pos>
+<pos pos="VVZ">
+<lemma lemma="represent">
+represents
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="one">
+one
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="idea">
+idea
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="express">
+expressed
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="by">
+by
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="mean">
+means
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="two">
+two
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="or">
+or
+</lemma>
+</pos>
+<pos pos="JJR">
+<lemma lemma="more">
+more
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="element">
+elements
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="whereas">
+whereas
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="nexus">
+nexus
+</lemma>
+</pos>
+<pos pos="VVZ">
+<lemma lemma="combine">
+combines
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="two">
+two
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="idea">
+ideas
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="NN">
+<lemma lemma="junction">
+Junction
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="nexus">
+nexus
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="prove">
+proved
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="valuable">
+valuable
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="VVG">
+<lemma lemma="bring">
+bringing
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="concept">
+concept
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="context">
+context
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="forefront">
+forefront
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="attention">
+attention
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="world">
+world
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="linguistics">
+linguistics
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+</p>
+<p p="p">
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="he">
+He
+</lemma>
+</pos>
+<pos pos="VBD">
+<lemma lemma="be">
+was
+</lemma>
+</pos>
+<pos pos="RBS">
+<lemma lemma="most">
+most
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="widely">
+widely
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="recognize">
+recognized
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="for">
+for
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="some">
+some
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="book">
+books
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<hi_rend hi_rend="italics">
+<pos pos="NP">
+<lemma lemma="Language">
+Language
+</lemma>
+</pos>
+<pos pos=":">
+<lemma lemma=":">
+:
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="its">
+Its
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Nature">
+Nature
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Development">
+Development
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Origin">
+Origin
+</lemma>
+</pos>
+</hi_rend>
+<pos pos="(">
+<lemma lemma="(">
+(
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1922">
+1922
+</date_when>
+</lemma>
+</pos>
+<pos pos=")">
+<lemma lemma=")">
+)
+</lemma>
+</pos>
+<pos pos="VBZ">
+<lemma lemma="be">
+is
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="consider">
+considered
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="by">
+by
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="many">
+many
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="VB">
+<lemma lemma="be">
+be
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="masterpiece">
+masterpiece
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<hi_rend hi_rend="italics">
+<pos pos="NP">
+<lemma lemma="Modern">
+Modern
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="English">
+English
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Grammar">
+Grammar
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="on">
+on
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="historical">
+Historical
+</lemma>
+</pos>
+<pos pos="NPS">
+<lemma lemma="principle">
+Principles
+</lemma>
+</pos>
+</hi_rend>
+<pos pos="(">
+<lemma lemma="(">
+(
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1909">
+1909
+</date_when>
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="–">
+–
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1949">
+1949
+</date_when>
+</lemma>
+</pos>
+<pos pos=")">
+<lemma lemma=")">
+)
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="concentrate">
+concentrated
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="on">
+on
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="morphology">
+morphology
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="syntax">
+syntax
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<hi_rend hi_rend="italics">
+<pos pos="NP">
+<lemma lemma="Growth">
+Growth
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Structure">
+Structure
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="English">
+English
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Language">
+Language
+</lemma>
+</pos>
+</hi_rend>
+<pos pos="(">
+<lemma lemma="(">
+(
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1905">
+1905
+</date_when>
+</lemma>
+</pos>
+<pos pos=")">
+<lemma lemma=")">
+)
+</lemma>
+</pos>
+<pos pos="VBZ">
+<lemma lemma="be">
+is
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="comprehensive">
+comprehensive
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="view">
+view
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="English">
+English
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="by">
+by
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="someone">
+someone
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="with">
+with
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="another">
+another
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="native">
+native
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="language">
+language
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="still">
+still
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="print">
+print
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<date_notBefore date_notBefore="2013">
+<pos pos="IN">
+<lemma lemma="over">
+over
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+70
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="year">
+years
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="after">
+after
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="death">
+death
+</lemma>
+</pos>
+</date_notBefore>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<date_notBefore date_notBefore="2005">
+<pos pos="JJR">
+<lemma lemma="more">
+more
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="than">
+than
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+100
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="year">
+years
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="after">
+after
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="publication">
+publication
+</lemma>
+</pos>
+</date_notBefore>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="RB">
+<lemma lemma="late">
+Late
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="life">
+life
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="he">
+he
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="publish">
+published
+</lemma>
+</pos>
+<hi_rend hi_rend="italics">
+<pos pos="NP">
+<lemma lemma="Analytic">
+Analytic
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Syntax">
+Syntax
+</lemma>
+</pos>
+</hi_rend>
+<pos pos="(">
+<lemma lemma="(">
+(
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1937">
+1937
+</date_when>
+</lemma>
+</pos>
+<pos pos=")">
+<lemma lemma=")">
+)
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="WDT">
+<lemma lemma="which">
+which
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="he">
+he
+</lemma>
+</pos>
+<pos pos="VVZ">
+<lemma lemma="present">
+presents
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="view">
+views
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="on">
+on
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="syntactic">
+syntactic
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="structure">
+structure
+</lemma>
+</pos>
+<pos pos="VVG">
+<lemma lemma="use">
+using
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="an">
+an
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="idiosyncratic">
+idiosyncratic
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="shorthand">
+shorthand
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="notation">
+notation
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="IN">
+<lemma lemma="in">
+In
+</lemma>
+</pos>
+<hi_rend hi_rend="italics">
+<pos pos="DT">
+<lemma lemma="the">
+The
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Philosophy">
+Philosophy
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Grammar">
+Grammar
+</lemma>
+</pos>
+</hi_rend>
+<pos pos="(">
+<lemma lemma="(">
+(
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1924">
+1924
+</date_when>
+</lemma>
+</pos>
+<pos pos=")">
+<lemma lemma=")">
+)
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="he">
+he
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="challenge">
+challenged
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="accept">
+accepted
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="view">
+views
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="common">
+common
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="concept">
+concepts
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="Grammar">
+Grammar
+</lemma>
+</pos>
+</ref>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="propose">
+proposed
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="correction">
+corrections
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="basic">
+basic
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="definition">
+definitions
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="JJ">
+<lemma lemma="grammatical">
+grammatical
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="case">
+case
+</lemma>
+</pos>
+</ref>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NN">
+<lemma lemma="pronoun">
+pronoun
+</lemma>
+</pos>
+</ref>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NN">
+<lemma lemma="object">
+object
+</lemma>
+</pos>
+</ref>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NN">
+<lemma lemma="voice">
+voice
+</lemma>
+</pos>
+</ref>
+<pos pos="FW">
+<lemma lemma="etc.">
+etc.
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="develop">
+developed
+</lemma>
+</pos>
+<pos pos="JJR">
+<lemma lemma="further">
+further
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="notion">
+notions
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="rank">
+<hi_rend hi_rend="italics">
+Rank
+</hi_rend>
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="nexus">
+<hi_rend hi_rend="italics">
+Nexus
+</hi_rend>
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="IN">
+<lemma lemma="in">
+In
+</lemma>
+</pos>
+<date_to date_to="2099">
+<date_from date_from="2000">
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="21st">
+21st
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="century">
+century
+</lemma>
+</pos>
+</date_from>
+</date_to>
+<pos pos="DT">
+<lemma lemma="this">
+this
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="book">
+book
+</lemma>
+</pos>
+<pos pos="VBZ">
+<lemma lemma="be">
+is
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="still">
+still
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="use">
+used
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="as">
+as
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="one">
+one
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="basic">
+basic
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="text">
+texts
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="modern">
+modern
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="JJ">
+<lemma lemma="structural">
+Structural
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="linguistics">
+linguistics
+</lemma>
+</pos>
+</ref>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<hi_rend hi_rend="italics">
+<pos pos="NP">
+<lemma lemma="mankind">
+Mankind
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Nation">
+Nation
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Individual">
+Individual
+</lemma>
+</pos>
+<pos pos=":">
+<lemma lemma=":">
+:
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="from">
+from
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="linguistic">
+linguistic
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="point">
+point
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="view">
+view
+</lemma>
+</pos>
+</hi_rend>
+<pos pos="(">
+<lemma lemma="(">
+(
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1925">
+1925
+</date_when>
+</lemma>
+</pos>
+<pos pos=")">
+<lemma lemma=")">
+)
+</lemma>
+</pos>
+<pos pos="VBZ">
+<lemma lemma="be">
+is
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="one">
+one
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="VVG">
+<lemma lemma="pioneer">
+pioneering
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="work">
+works
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="on">
+on
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NN">
+<lemma lemma="sociolinguistics">
+Sociolinguistics
+</lemma>
+</pos>
+</ref>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+</p>
+<p p="p">
+<s_type s_type="decl">
+<pos pos="NP">
+<lemma lemma="Jespersen">
+Jespersen
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="visit">
+visited
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="United">
+United
+</lemma>
+</pos>
+<pos pos="NPS">
+<lemma lemma="States">
+States
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="twice">
+twice
+</lemma>
+</pos>
+<pos pos=":">
+<lemma lemma=":">
+:
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="he">
+he
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="lecture">
+lectured
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="at">
+at
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Congress">
+Congress
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NPS">
+<lemma lemma="Art">
+Arts
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="NPS">
+<lemma lemma="Sciences">
+Sciences
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="St.">
+St.
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Louis">
+Louis
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1904">
+1904
+</date_when>
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1909">
+1909
+</date_when>
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="–">
+–
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1910">
+1910
+</date_when>
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="he">
+he
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="visit">
+visited
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="both">
+both
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="University">
+University
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="California">
+California
+</lemma>
+</pos>
+</ref>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="Columbia">
+Columbia
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="University">
+University
+</lemma>
+</pos>
+</ref>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="IN">
+<lemma lemma="while">
+While
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="U.S.">
+U.S.
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="he">
+he
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="take">
+took
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="occasion">
+occasion
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="study">
+study
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="country">
+country
+</lemma>
+</pos>
+<pos pos="POS">
+<lemma lemma="'s">
+'s
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="educational">
+educational
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="system">
+system
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP$">
+<lemma lemma="his">
+His
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="autobiography">
+autobiography
+</lemma>
+</pos>
+<pos pos="(">
+<lemma lemma="(">
+(
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="see">
+see
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="below">
+below
+</lemma>
+</pos>
+<pos pos=")">
+<lemma lemma=")">
+)
+</lemma>
+</pos>
+<pos pos="VBD">
+<lemma lemma="be">
+was
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="publish">
+published
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="English">
+English
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="translation">
+translation
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="as">
+as
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="recently">
+recently
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="as">
+as
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1995">
+1995
+</date_when>
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+</p>
+<p p="p">
+<s_type s_type="decl">
+<pos pos="NP">
+<lemma lemma="Jespersen">
+Jespersen
+</lemma>
+</pos>
+<pos pos="VBD">
+<lemma lemma="be">
+was
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="proponent">
+proponent
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NN">
+<lemma lemma="phonosemanticism">
+phonosemanticism
+</lemma>
+</pos>
+</ref>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="write">
+wrote
+</lemma>
+</pos>
+<pos pos=":">
+<lemma lemma=":">
+:
+</lemma>
+</pos>
+</s_type>
+<quote quote="quote">
+<s_type s_type="q">
+<pos pos="NN">
+<lemma lemma="“">
+“
+</lemma>
+</pos>
+<pos pos="VBZ">
+<lemma lemma="be">
+Is
+</lemma>
+</pos>
+<pos pos="EX">
+<lemma lemma="there">
+there
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="really">
+really
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="much">
+much
+</lemma>
+</pos>
+<pos pos="JJR">
+<lemma lemma="more">
+more
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="logic">
+logic
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="opposite">
+opposite
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="extreme">
+extreme
+</lemma>
+</pos>
+<pos pos="WDT">
+<lemma lemma="which">
+which
+</lemma>
+</pos>
+<pos pos="VVZ">
+<lemma lemma="deny">
+denies
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="any">
+any
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="kind">
+kind
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NN">
+<lemma lemma="sound">
+sound
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="symbolism">
+symbolism
+</lemma>
+</pos>
+</ref>
+<pos pos="(">
+<lemma lemma="(">
+(
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="apart">
+apart
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="from">
+from
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="small">
+small
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="class">
+class
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="evident">
+evident
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="echoism">
+echoisms
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<q q="q">
+<pos pos="``">
+<lemma lemma="‘">
+‘
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NN">
+<lemma lemma="onomatopoeia">
+onomatopoeia
+</lemma>
+</pos>
+</ref>
+<pos pos="''">
+<lemma lemma="’">
+’
+</lemma>
+</pos>
+</q>
+<pos pos=")">
+<lemma lemma=")">
+)
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="VVZ">
+<lemma lemma="see">
+sees
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="our">
+our
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="word">
+words
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="only">
+only
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="a">
+a
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="collection">
+collection
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="accidental">
+accidental
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="irrational">
+irrational
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="association">
+associations
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="sound">
+sound
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="meaning">
+meaning
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma="?">
+?
+</lemma>
+</pos>
+<pos pos=":">
+<lemma lemma="...">
+...
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="EX">
+<lemma lemma="There">
+There
+</lemma>
+</pos>
+<pos pos="VBZ">
+<lemma lemma="be">
+is
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="no">
+no
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="denying">
+denying
+</lemma>
+</pos>
+<pos pos="IN/that">
+<lemma lemma="that">
+that
+</lemma>
+</pos>
+<pos pos="EX">
+<lemma lemma="there">
+there
+</lemma>
+</pos>
+<pos pos="VBP">
+<lemma lemma="be">
+are
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="word">
+words
+</lemma>
+</pos>
+<pos pos="WDT">
+<lemma lemma="which">
+which
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="we">
+we
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="feel">
+feel
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="instinctively">
+instinctively
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="VB">
+<lemma lemma="be">
+be
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="adequate">
+adequate
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="express">
+express
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="idea">
+ideas
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="they">
+they
+</lemma>
+</pos>
+<pos pos="VVP">
+<lemma lemma="stand">
+stand
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="for">
+for
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="”">
+”
+</lemma>
+</pos>
+</s_type>
+</quote>
+</p>
+<p p="p">
+<s_type s_type="decl">
+<pos pos="IN">
+<lemma lemma="after">
+After
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="retirement">
+retirement
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1925">
+1925
+</date_when>
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Jespersen">
+Jespersen
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="remain">
+remained
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="active">
+active
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="international">
+international
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="linguistic">
+linguistic
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="community">
+community
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="IN">
+<lemma lemma="in">
+In
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="addition">
+addition
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="VVG">
+<lemma lemma="continue">
+continuing
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="VV">
+<lemma lemma="write">
+write
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="PP">
+<lemma lemma="he">
+he
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="convene">
+convened
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="chair">
+chaired
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="first">
+first
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="International">
+International
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Meeting">
+Meeting
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="on">
+on
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Linguistic">
+Linguistic
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Research">
+Research
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Geneva">
+Geneva
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1930">
+1930
+</date_when>
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="act">
+acted
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="as">
+as
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="president">
+president
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="fourth">
+Fourth
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="International">
+International
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Congress">
+Congress
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Linguists">
+Linguists
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Copenhagen">
+Copenhagen
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1936">
+1936
+</date_when>
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+</p>
+<p p="p">
+<s_type s_type="decl">
+<pos pos="NP">
+<lemma lemma="Jespersen">
+Jespersen
+</lemma>
+</pos>
+<pos pos="VBD">
+<lemma lemma="be">
+was
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="an">
+an
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="important">
+important
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="figure">
+figure
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="JJ">
+<lemma lemma="international">
+international
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="language">
+language
+</lemma>
+</pos>
+</ref>
+<pos pos="NN">
+<lemma lemma="movement">
+movement
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="he">
+He
+</lemma>
+</pos>
+<pos pos="VBD">
+<lemma lemma="be">
+was
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="an">
+an
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="early">
+early
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="supporter">
+supporter
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NN">
+<lemma lemma="Esperanto">
+Esperanto
+</lemma>
+</pos>
+</ref>
+<pos pos="NN">
+<lemma lemma="offshoot">
+offshoot
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="Ido">
+Ido
+</lemma>
+</pos>
+</ref>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1927">
+1927
+</date_when>
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="publish">
+published
+</lemma>
+</pos>
+<pos pos="PP$">
+<lemma lemma="his">
+his
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="own">
+own
+</lemma>
+</pos>
+<pos pos="NN">
+<lemma lemma="project">
+project
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="Novial">
+Novial
+</lemma>
+</pos>
+</ref>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="he">
+He
+</lemma>
+</pos>
+<pos pos="RB">
+<lemma lemma="also">
+also
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="work">
+worked
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="with">
+with
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="International">
+International
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Auxiliary">
+Auxiliary
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Language">
+Language
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Association">
+Association
+</lemma>
+</pos>
+</ref>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+</p>
+<p p="p">
+<s_type s_type="decl">
+<pos pos="NP">
+<lemma lemma="Jespersen">
+Jespersen
+</lemma>
+</pos>
+<pos pos="VVD">
+<lemma lemma="receive">
+received
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="honorary">
+honorary
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="degree">
+degrees
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="from">
+from
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Columbia">
+Columbia
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="University">
+University
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="New">
+New
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="York">
+York
+</lemma>
+</pos>
+<pos pos="(">
+<lemma lemma="(">
+(
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1910">
+1910
+</date_when>
+</lemma>
+</pos>
+<pos pos=")">
+<lemma lemma=")">
+)
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="St.">
+St.
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Andrews">
+Andrews
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="University">
+University
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Scotland">
+Scotland
+</lemma>
+</pos>
+<pos pos="(">
+<lemma lemma="(">
+(
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1925">
+1925
+</date_when>
+</lemma>
+</pos>
+<pos pos=")">
+<lemma lemma=")">
+)
+</lemma>
+</pos>
+<pos pos=",">
+<lemma lemma=",">
+,
+</lemma>
+</pos>
+<pos pos="CC">
+<lemma lemma="and">
+and
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Sorbonne">
+Sorbonne
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="in">
+in
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Paris">
+Paris
+</lemma>
+</pos>
+<pos pos="(">
+<lemma lemma="(">
+(
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="@card@">
+<date_when date_when="1927">
+1927
+</date_when>
+</lemma>
+</pos>
+<pos pos=")">
+<lemma lemma=")">
+)
+</lemma>
+</pos>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+<s_type s_type="decl">
+<pos pos="PP">
+<lemma lemma="he">
+He
+</lemma>
+</pos>
+<pos pos="VBD">
+<lemma lemma="be">
+was
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="one">
+one
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="first">
+first
+</lemma>
+</pos>
+<pos pos="CD">
+<lemma lemma="six">
+six
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="international">
+international
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="scholar">
+scholars
+</lemma>
+</pos>
+<pos pos="TO">
+<lemma lemma="to">
+to
+</lemma>
+</pos>
+<pos pos="VB">
+<lemma lemma="be">
+be
+</lemma>
+</pos>
+<pos pos="VVN">
+<lemma lemma="elect">
+elected
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="as">
+as
+</lemma>
+</pos>
+<pos pos="JJ">
+<lemma lemma="honorary">
+honorary
+</lemma>
+</pos>
+<pos pos="NNS">
+<lemma lemma="member">
+members
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="DT">
+<lemma lemma="the">
+the
+</lemma>
+</pos>
+<ref ref="ref">
+<pos pos="NP">
+<lemma lemma="Linguistic">
+Linguistic
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="Society">
+Society
+</lemma>
+</pos>
+<pos pos="IN">
+<lemma lemma="of">
+of
+</lemma>
+</pos>
+<pos pos="NP">
+<lemma lemma="America">
+America
+</lemma>
+</pos>
+</ref>
+<pos pos="SENT">
+<lemma lemma=".">
+.
+</lemma>
+</pos>
+</s_type>
+</p>
+</text_id>
+</meta>
