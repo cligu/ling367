@@ -25,7 +25,7 @@ Clinics
 </pos>
 </s_type>
 <s_type s_type="ger">
-<pos pos="NP">
+<pos pos="VVG">
 <lemma lemma="Leading">
 Leading
 </lemma>
@@ -35,7 +35,7 @@ Leading
 Dutch
 </lemma>
 </pos>
-<pos pos="NPS">
+<pos pos="NNS">
 <lemma lemma="Librarian">
 Librarians
 </lemma>
