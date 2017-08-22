@@ -3528,7 +3528,7 @@ Carpentry
 model
 </lemma>
 </pos>
-<pos pos="IN">
+<pos pos="RB">
 <lemma lemma="as">
 as
 </lemma>
@@ -3538,7 +3538,7 @@ as
 closely
 </lemma>
 </pos>
-<pos pos="RB">
+<pos pos="IN">
 <lemma lemma="as">
 as
 </lemma>
