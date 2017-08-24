@@ -3218,7 +3218,7 @@ Grammar
 and
 </lemma>
 </pos>
-<pos pos="VVN">
+<pos pos="VVD">
 <lemma lemma="propose">
 proposed
 </lemma>
@@ -3321,7 +3321,7 @@ and
 developed
 </lemma>
 </pos>
-<pos pos="JJR">
+<pos pos="RBR">
 <lemma lemma="further">
 further
 </lemma>
