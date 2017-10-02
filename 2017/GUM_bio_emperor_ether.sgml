@@ -1,0 +1,7765 @@
+<meta author="Wikipedia, The Free Encyclopedia" dateCollected="2017-09-13" dateCreated="2001-11-15" dateModified="2017-09-13" shortTitle="emperor" sourceURL="https://en.wikipedia.org/wiki/Emperor_Norton" speakerCount="0" speakerList="none" title="Emperor Norton" type="bio">
+<text_id text_id="GUM_bio_emperor">
+<s_type_orig s_type_orig="inf">
+<s_type s_type="frag">
+<head head="head">
+<tok_orig tok_orig="Emperor">
+<pos pos="NP">
+Emperor
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+</head>
+</s_type>
+</s_type_orig>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<hi_rend hi_rend="bold">
+<tok_orig tok_orig="Joshua">
+<pos pos="NP">
+Joshua
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Abraham">
+<pos pos="NP">
+Abraham
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+</hi_rend>
+<tok_orig tok_orig="(">
+<pos pos="(">
+(
+</pos>
+</tok_orig>
+<tok_orig tok_orig="c.">
+<pos pos="IN">
+c.
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1818">
+<pos pos="CD">
+<date_when date_when="1818">
+1818
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig="–">
+<pos pos=":">
+–
+</pos>
+</tok_orig>
+<date_when date_when="1880-01-08">
+<tok_orig tok_orig="January">
+<pos pos="NP">
+January
+</pos>
+</tok_orig>
+<tok_orig tok_orig="8">
+<pos pos="CD">
+8
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1880">
+<pos pos="CD">
+1880
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig=")">
+<pos pos=")">
+)
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="known">
+<pos pos="VVZ">
+known
+</pos>
+</tok_orig>
+<tok_orig tok_orig="as">
+<pos pos="IN">
+as
+</pos>
+</tok_orig>
+<hi_rend hi_rend="bold">
+<tok_orig tok_orig="Emperor">
+<pos pos="NP">
+Emperor
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+</hi_rend>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="was">
+<pos pos="VBD">
+was
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="citizen">
+<pos pos="NN">
+citizen
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/San_Francisco">
+<tok_orig tok_orig="San">
+<pos pos="NP">
+San
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Francisco">
+<pos pos="NP">
+Francisco
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="California">
+<ref_target ref_target="https://en.wikipedia.org/wiki/California">
+<pos pos="NP">
+California
+</pos>
+</ref_target>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="who">
+<pos pos="WP">
+who
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1859">
+<pos pos="CD">
+<date_when date_when="1859">
+1859
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig="proclaimed">
+<pos pos="VVD">
+proclaimed
+</pos>
+</tok_orig>
+<tok_orig tok_orig="himself">
+<pos pos="PP">
+himself
+</pos>
+</tok_orig>
+<q q="q">
+<tok_orig tok_orig=""">
+<pos pos="``">
+"
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig="I">
+<pos pos="NP">
+I
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Emperor">
+<pos pos="NP">
+Emperor
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="NP">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="NP">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="United">
+<pos pos="NP">
+United
+</pos>
+</tok_orig>
+<tok_orig tok_orig="States">
+<pos pos="NP">
+States
+</pos>
+</tok_orig>
+<tok_orig tok_orig=""">
+<pos pos="''">
+"
+</pos>
+</tok_orig>
+</q>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="He">
+<pos pos="PP">
+He
+</pos>
+</tok_orig>
+<tok_orig tok_orig="later">
+<pos pos="RB">
+later
+</pos>
+</tok_orig>
+<tok_orig tok_orig="expanded">
+<pos pos="VVD">
+expanded
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="pretense">
+<pos pos="NN">
+pretense
+</pos>
+</tok_orig>
+<tok_orig tok_orig="by">
+<pos pos="IN">
+by
+</pos>
+</tok_orig>
+<tok_orig tok_orig="claiming">
+<pos pos="VVG">
+claiming
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="be">
+<pos pos="VB">
+be
+</pos>
+</tok_orig>
+<q q="q">
+<tok_orig tok_orig=""">
+<pos pos="``">
+"
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Protector">
+<pos pos="NN">
+Protector
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Mexico">
+<pos pos="NP">
+Mexico
+</pos>
+</tok_orig>
+<tok_orig tok_orig=""">
+<pos pos="''">
+"
+</pos>
+</tok_orig>
+</q>
+<tok_orig tok_orig="as">
+<pos pos="IN">
+as
+</pos>
+</tok_orig>
+<tok_orig tok_orig="well">
+<pos pos="RB">
+well
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Born">
+<pos pos="VVD">
+Born
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="England">
+<pos pos="NP">
+England
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig="spent">
+<pos pos="VVD">
+spent
+</pos>
+</tok_orig>
+<tok_orig tok_orig="most">
+<pos pos="JJR">
+most
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="early">
+<pos pos="JJ">
+early
+</pos>
+</tok_orig>
+<tok_orig tok_orig="life">
+<pos pos="NN">
+life
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="South">
+<pos pos="NP">
+South
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Africa">
+<pos pos="NP">
+Africa
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="After">
+<pos pos="IN">
+After
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="death">
+<pos pos="NN">
+death
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="mother">
+<pos pos="NN">
+mother
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1846">
+<pos pos="CD">
+1846
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="father">
+<pos pos="NN">
+father
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1848">
+<pos pos="CD">
+<date_when date_when="1848">
+1848
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="sailed">
+<pos pos="VVD">
+sailed
+</pos>
+</tok_orig>
+<tok_orig tok_orig="west">
+<pos pos="RB">
+west
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="arriving">
+<pos pos="VVG">
+arriving
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="San">
+<pos pos="NP">
+San
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Francisco">
+<pos pos="NP">
+Francisco
+</pos>
+</tok_orig>
+<tok_orig tok_orig="possibly">
+possibly
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<date_when date_when="1849-11">
+<tok_orig tok_orig="November">
+<pos pos="NP">
+November
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1849">
+<pos pos="CD">
+1849
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig="initially">
+<pos pos="RB">
+initially
+</pos>
+</tok_orig>
+<tok_orig tok_orig="made">
+<pos pos="VV">
+made
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="living">
+<pos pos="NN">
+living
+</pos>
+</tok_orig>
+<tok_orig tok_orig="as">
+<pos pos="IN">
+as
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="businessman">
+<pos pos="NN">
+businessman
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="but">
+<pos pos="CC">
+but
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="lost">
+<pos pos="VVD">
+lost
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="fortune">
+<pos pos="NN">
+fortune
+</pos>
+</tok_orig>
+<tok_orig tok_orig="investing">
+<pos pos="VVG">
+investing
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Peruvian">
+<pos pos="JJ">
+Peruvian
+</pos>
+</tok_orig>
+<tok_orig tok_orig="rice">
+<pos pos="NN">
+rice
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="After">
+<pos pos="IN">
+After
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="lost">
+<pos pos="VVD">
+lost
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="lawsuit">
+<pos pos="NN">
+lawsuit
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="which">
+<pos pos="WDT">
+which
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="tried">
+<pos pos="VVD">
+tried
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="void">
+<pos pos="VVP">
+void
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="rice">
+<pos pos="NN">
+rice
+</pos>
+</tok_orig>
+<tok_orig tok_orig="contract">
+<pos pos="NN">
+contract
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig="'s">
+<pos pos="POS">
+'s
+</pos>
+</tok_orig>
+<tok_orig tok_orig="public">
+<pos pos="JJ">
+public
+</pos>
+</tok_orig>
+<tok_orig tok_orig="prominence">
+<pos pos="NN">
+prominence
+</pos>
+</tok_orig>
+<tok_orig tok_orig="faded">
+<pos pos="VVD">
+faded
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="He">
+<pos pos="PP">
+He
+</pos>
+</tok_orig>
+<tok_orig tok_orig="reemerged">
+<pos pos="VVD">
+reemerged
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<date_when date_when="1859-09">
+<tok_orig tok_orig="September">
+<pos pos="NP">
+September
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1859">
+<pos pos="CD">
+1859
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="laying">
+<pos pos="VVG">
+laying
+</pos>
+</tok_orig>
+<tok_orig tok_orig="claim">
+<pos pos="NN">
+claim
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="position">
+<pos pos="NN">
+position
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Emperor">
+<pos pos="NN">
+Emperor
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="United">
+<pos pos="NP">
+United
+</pos>
+</tok_orig>
+<tok_orig tok_orig="States">
+<pos pos="NP">
+States
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="He">
+<pos pos="PP">
+He
+</pos>
+</tok_orig>
+<tok_orig tok_orig="had">
+<pos pos="VHN">
+had
+</pos>
+</tok_orig>
+<tok_orig tok_orig="no">
+<pos pos="DT">
+no
+</pos>
+</tok_orig>
+<tok_orig tok_orig="political">
+<pos pos="JJ">
+political
+</pos>
+</tok_orig>
+<tok_orig tok_orig="power">
+<pos pos="NN">
+power
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="influence">
+<pos pos="NN">
+influence
+</pos>
+</tok_orig>
+<tok_orig tok_orig="extended">
+<pos pos="VVD">
+extended
+</pos>
+</tok_orig>
+<tok_orig tok_orig="only">
+<pos pos="RB">
+only
+</pos>
+</tok_orig>
+<tok_orig tok_orig="so">
+<pos pos="RB">
+so
+</pos>
+</tok_orig>
+<tok_orig tok_orig="far">
+<pos pos="RB">
+far
+</pos>
+</tok_orig>
+<tok_orig tok_orig="as">
+<pos pos="IN">
+as
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="was">
+<pos pos="VBD">
+was
+</pos>
+</tok_orig>
+<tok_orig tok_orig="humored">
+<pos pos="VVN">
+humored
+</pos>
+</tok_orig>
+<tok_orig tok_orig="by">
+<pos pos="IN">
+by
+</pos>
+</tok_orig>
+<tok_orig tok_orig="those">
+<pos pos="PP">
+those
+</pos>
+</tok_orig>
+<tok_orig tok_orig="around">
+<pos pos="IN">
+around
+</pos>
+</tok_orig>
+<tok_orig tok_orig="him">
+<pos pos="PP">
+him
+</pos>
+</tok_orig>
+<tok_orig tok_orig=";">
+<pos pos=":">
+;
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="nevertheless">
+<pos pos="IN">
+nevertheless
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="was">
+<pos pos="VBD">
+was
+</pos>
+</tok_orig>
+<tok_orig tok_orig="treated">
+<pos pos="VVN">
+treated
+</pos>
+</tok_orig>
+<tok_orig tok_orig="deferentially">
+<pos pos="RB">
+deferentially
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="San">
+<pos pos="NP">
+San
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Francisco">
+<pos pos="NP">
+Francisco
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="currency">
+<pos pos="NN">
+currency
+</pos>
+</tok_orig>
+<tok_orig tok_orig="issued">
+<pos pos="VVD">
+issued
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="name">
+<pos pos="NN">
+name
+</pos>
+</tok_orig>
+<tok_orig tok_orig="was">
+<pos pos="VBD">
+was
+</pos>
+</tok_orig>
+<tok_orig tok_orig="honored">
+<pos pos="VVN">
+honored
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="establishments">
+<pos pos="VVP">
+establishments
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="frequented">
+<pos pos="VVD">
+frequented
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Though">
+<pos pos="IN">
+Though
+</pos>
+</tok_orig>
+<tok_orig tok_orig="some">
+<pos pos="NN">
+some
+</pos>
+</tok_orig>
+<tok_orig tok_orig="considered">
+<pos pos="VVD">
+considered
+</pos>
+</tok_orig>
+<tok_orig tok_orig="him">
+<pos pos="PP">
+him
+</pos>
+</tok_orig>
+<tok_orig tok_orig="insane">
+<pos pos="JJ">
+insane
+</pos>
+</tok_orig>
+<tok_orig tok_orig="or">
+<pos pos="CC">
+or
+</pos>
+</tok_orig>
+<tok_orig tok_orig="eccentric">
+<pos pos="JJ">
+eccentric
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="citizens">
+<pos pos="NNS">
+citizens
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="San">
+<pos pos="NP">
+San
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Francisco">
+<pos pos="NP">
+Francisco
+</pos>
+</tok_orig>
+<tok_orig tok_orig="celebrated">
+<pos pos="VVD">
+celebrated
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="regal">
+<pos pos="JJ">
+regal
+</pos>
+</tok_orig>
+<tok_orig tok_orig="presence">
+<pos pos="NN">
+presence
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="proclamations">
+<pos pos="NNS">
+proclamations
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="such">
+<pos pos="JJ">
+such
+</pos>
+</tok_orig>
+<tok_orig tok_orig="as">
+<pos pos="IN">
+as
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="order">
+<pos pos="NN">
+order
+</pos>
+</tok_orig>
+<tok_orig tok_orig="that">
+<pos pos="IN/that">
+that
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/United_States_Congress">
+<tok_orig tok_orig="United">
+<pos pos="NP">
+United
+</pos>
+</tok_orig>
+<tok_orig tok_orig="States">
+<pos pos="NP">
+States
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Congress">
+<pos pos="NP">
+Congress
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig="be">
+<pos pos="VB">
+be
+</pos>
+</tok_orig>
+<tok_orig tok_orig="dissolved">
+<pos pos="VVD">
+dissolved
+</pos>
+</tok_orig>
+<tok_orig tok_orig="by">
+<pos pos="IN">
+by
+</pos>
+</tok_orig>
+<tok_orig tok_orig="force">
+<pos pos="NN">
+force
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="numerous">
+<pos pos="JJ">
+numerous
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decrees">
+<pos pos="NNS">
+decrees
+</pos>
+</tok_orig>
+<tok_orig tok_orig="calling">
+<pos pos="VVG">
+calling
+</pos>
+</tok_orig>
+<tok_orig tok_orig="for">
+<pos pos="IN">
+for
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="bridge">
+<pos pos="NN">
+bridge
+</pos>
+</tok_orig>
+<tok_orig tok_orig="connecting">
+<pos pos="VVG">
+connecting
+</pos>
+</tok_orig>
+<tok_orig tok_orig="San">
+<pos pos="NP">
+San
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Francisco">
+<pos pos="NP">
+Francisco
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="IN">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Oakland">
+<ref_target ref_target="https://en.wikipedia.org/wiki/Oakland,_California">
+<pos pos="NP">
+Oakland
+</pos>
+</ref_target>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="corresponding">
+<pos pos="JJ">
+corresponding
+</pos>
+</tok_orig>
+<tok_orig tok_orig="tunnel">
+<pos pos="NN">
+tunnel
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="IN">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="be">
+<pos pos="VB">
+be
+</pos>
+</tok_orig>
+<tok_orig tok_orig="built">
+<pos pos="VVD">
+built
+</pos>
+</tok_orig>
+<tok_orig tok_orig="under">
+<pos pos="IN">
+under
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/San_Francisco_Bay">
+<tok_orig tok_orig="San">
+<pos pos="NP">
+San
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Francisco">
+<pos pos="NP">
+Francisco
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Bay">
+<pos pos="NP">
+Bay
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Long">
+<pos pos="RB">
+Long
+</pos>
+</tok_orig>
+<tok_orig tok_orig="after">
+<pos pos="IN">
+after
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="death">
+<pos pos="NN">
+death
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="similar">
+<pos pos="JJ">
+similar
+</pos>
+</tok_orig>
+<tok_orig tok_orig="structures">
+<pos pos="NN">
+structures
+</pos>
+</tok_orig>
+<tok_orig tok_orig="were">
+<pos pos="VBD">
+were
+</pos>
+</tok_orig>
+<tok_orig tok_orig="built">
+<pos pos="VVD">
+built
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="form">
+<pos pos="NN">
+form
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/San_Francisco%E2%80%93Oakland_Bay_Bridge">
+<tok_orig tok_orig="San">
+<pos pos="NP">
+San
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Francisco">
+<pos pos="NP">
+Francisco
+</pos>
+</tok_orig>
+<tok_orig tok_orig="–">
+<pos pos=":">
+–
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Oakland">
+<pos pos="NP">
+Oakland
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Bay">
+<pos pos="NP">
+Bay
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Bridge">
+<pos pos="NP">
+Bridge
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/Transbay_Tube">
+<tok_orig tok_orig="Transbay">
+<pos pos="NP">
+Transbay
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Tube">
+<pos pos="NP">
+Tube
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="there">
+<pos pos="EX">
+there
+</pos>
+</tok_orig>
+<tok_orig tok_orig="have">
+<pos pos="VHP">
+have
+</pos>
+</tok_orig>
+<tok_orig tok_orig="been">
+<pos pos="VBN">
+been
+</pos>
+</tok_orig>
+<tok_orig tok_orig="campaigns">
+<pos pos="NNS">
+campaigns
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="IN">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="rename">
+<pos pos="VVP">
+rename
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="bridge">
+<pos pos="NN">
+bridge
+</pos>
+</tok_orig>
+<q q="q">
+<tok_orig tok_orig=""">
+<pos pos="``">
+"
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/San_Francisco-Oakland_Bay_Bridge#Emperor_Norton_naming_campaigns">
+<tok_orig tok_orig="The">
+<pos pos="NP">
+The
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Emperor">
+<pos pos="NP">
+Emperor
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Bridge">
+<pos pos="NP">
+Bridge
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig=""">
+<pos pos="''">
+"
+</pos>
+</tok_orig>
+</q>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="On">
+<pos pos="IN">
+On
+</pos>
+</tok_orig>
+<date_when date_when="1880-01-08">
+<tok_orig tok_orig="January">
+<pos pos="NP">
+January
+</pos>
+</tok_orig>
+<tok_orig tok_orig="8">
+<pos pos="CD">
+8
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1880">
+<pos pos="CD">
+1880
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig="collapsed">
+<pos pos="VVD">
+collapsed
+</pos>
+</tok_orig>
+<tok_orig tok_orig="at">
+<pos pos="IN">
+at
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="corner">
+<pos pos="NN">
+corner
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="California">
+<pos pos="NP">
+California
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Dupont">
+<pos pos="NP">
+Dupont
+</pos>
+</tok_orig>
+<tok_orig tok_orig="(">
+<pos pos="(">
+(
+</pos>
+</tok_orig>
+<tok_orig tok_orig="now">
+<pos pos="RB">
+now
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Grant">
+<pos pos="NP">
+Grant
+</pos>
+</tok_orig>
+<tok_orig tok_orig=")">
+<pos pos=")">
+)
+</pos>
+</tok_orig>
+<tok_orig tok_orig="streets">
+<pos pos="NNS">
+streets
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="died">
+<pos pos="VVD">
+died
+</pos>
+</tok_orig>
+<tok_orig tok_orig="before">
+<pos pos="IN">
+before
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="could">
+<pos pos="MD">
+could
+</pos>
+</tok_orig>
+<tok_orig tok_orig="be">
+<pos pos="VB">
+be
+</pos>
+</tok_orig>
+<tok_orig tok_orig="given">
+<pos pos="VVN">
+given
+</pos>
+</tok_orig>
+<tok_orig tok_orig="medical">
+<pos pos="JJ">
+medical
+</pos>
+</tok_orig>
+<tok_orig tok_orig="treatment">
+<pos pos="NN">
+treatment
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Nearly">
+<pos pos="JJ">
+Nearly
+</pos>
+</tok_orig>
+<tok_orig tok_orig="30,000">
+<pos pos="CD">
+30,000
+</pos>
+</tok_orig>
+<tok_orig tok_orig="people">
+<pos pos="NNS">
+people
+</pos>
+</tok_orig>
+<tok_orig tok_orig="packed">
+<pos pos="VVD">
+packed
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="streets">
+<pos pos="NNS">
+streets
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="San">
+<pos pos="NP">
+San
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Francisco">
+<pos pos="NP">
+Francisco
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="IN">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="pay">
+<pos pos="VVP">
+pay
+</pos>
+</tok_orig>
+<tok_orig tok_orig="him">
+<pos pos="PP">
+him
+</pos>
+</tok_orig>
+<tok_orig tok_orig="homage">
+<pos pos="NN">
+homage
+</pos>
+</tok_orig>
+<tok_orig tok_orig="at">
+<pos pos="IN">
+at
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="funeral">
+<pos pos="NN">
+funeral
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig="has">
+<pos pos="VHZ">
+has
+</pos>
+</tok_orig>
+<tok_orig tok_orig="been">
+<pos pos="VBN">
+been
+</pos>
+</tok_orig>
+<tok_orig tok_orig="immortalized">
+<pos pos="VVD">
+immortalized
+</pos>
+</tok_orig>
+<tok_orig tok_orig="as">
+<pos pos="IN">
+as
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="basis">
+<pos pos="NN">
+basis
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="characters">
+<pos pos="NNS">
+characters
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="literature">
+<pos pos="NN">
+literature
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="writers">
+<pos pos="NNS">
+writers
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/Mark_Twain">
+<tok_orig tok_orig="Mark">
+<pos pos="NP">
+Mark
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Twain">
+<pos pos="NP">
+Twain
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/Robert_Louis_Stevenson">
+<tok_orig tok_orig="Robert">
+<pos pos="NP">
+Robert
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Louis">
+<pos pos="NP">
+Louis
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Stevenson">
+<pos pos="NP">
+Stevenson
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/Christopher_Moore_(author)">
+<tok_orig tok_orig="Christopher">
+<pos pos="NP">
+Christopher
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Moore">
+<pos pos="NP">
+Moore
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Morris">
+<ref_target ref_target="https://en.wikipedia.org/wiki/Morris_(comics)">
+<pos pos="NP">
+Morris
+</pos>
+</ref_target>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Goscinny">
+<ref_target ref_target="https://en.wikipedia.org/wiki/Goscinny">
+<pos pos="NP">
+Goscinny
+</pos>
+</ref_target>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/Selma_Lagerl%C3%B6f">
+<tok_orig tok_orig="Selma">
+<pos pos="NP">
+Selma
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Lagerlöf">
+<pos pos="NP">
+Lagerlöf
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/Neil_Gaiman">
+<tok_orig tok_orig="Neil">
+<pos pos="NP">
+Neil
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Gaiman">
+<pos pos="NP">
+Gaiman
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<s_type_orig s_type_orig="inf">
+<s_type s_type="frag">
+<figure_rend figure_rend="Portrait of his Norton I">
+<caption caption="caption">
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig="I">
+<pos pos="NP">
+I
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Emperor">
+<pos pos="NP">
+Emperor
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="United">
+<pos pos="NP">
+United
+</pos>
+</tok_orig>
+<tok_orig tok_orig="States">
+<pos pos="NP">
+States
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="photograph">
+<pos pos="NN">
+photograph
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="c.">
+<pos pos="RB">
+c.
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1871">
+<pos pos="CD">
+<date_when date_when="1871">
+1871
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig="–">
+<pos pos=":">
+–
+</pos>
+</tok_orig>
+<tok_orig tok_orig="72">
+<pos pos="CD">
+<date_when date_when="1872">
+72
+</date_when>
+</pos>
+</tok_orig>
+</caption>
+</figure_rend>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="ger">
+<s_type s_type="frag">
+<head head="head">
+<tok_orig tok_orig="Declares">
+<pos pos="VVZ">
+Declares
+</pos>
+</tok_orig>
+<tok_orig tok_orig="himself">
+<pos pos="PP">
+himself
+</pos>
+</tok_orig>
+<tok_orig tok_orig="emperor">
+<pos pos="NN">
+emperor
+</pos>
+</tok_orig>
+</head>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="inf">
+<s_type s_type="frag">
+<figure_rend figure_rend="Joshua Norton in full military regalia with his hand on the hilt of a ceremonial sword.">
+<caption caption="caption">
+<tok_orig tok_orig="Emperor">
+<pos pos="NP">
+Emperor
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Joshua">
+<pos pos="NP">
+Joshua
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="full">
+<pos pos="JJ">
+full
+</pos>
+</tok_orig>
+<tok_orig tok_orig="military">
+<pos pos="JJ">
+military
+</pos>
+</tok_orig>
+<tok_orig tok_orig="regalia">
+<pos pos="NNS">
+regalia
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="circa">
+<pos pos="RB">
+circa
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1880">
+<pos pos="CD">
+<date_when date_when="1880">
+1880
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig="or">
+<pos pos="CC">
+or
+</pos>
+</tok_orig>
+<tok_orig tok_orig="earlier">
+<pos pos="RBR">
+earlier
+</pos>
+</tok_orig>
+</caption>
+</figure_rend>
+</s_type>
+</s_type_orig>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="By">
+<pos pos="IN">
+By
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1859">
+<pos pos="CD">
+<date_when date_when="1859">
+1859
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig="had">
+<pos pos="VHN">
+had
+</pos>
+</tok_orig>
+<tok_orig tok_orig="become">
+<pos pos="VV">
+become
+</pos>
+</tok_orig>
+<tok_orig tok_orig="completely">
+<pos pos="JJ">
+completely
+</pos>
+</tok_orig>
+<tok_orig tok_orig="disgruntled">
+<pos pos="JJ">
+disgruntled
+</pos>
+</tok_orig>
+<tok_orig tok_orig="with">
+<pos pos="IN">
+with
+</pos>
+</tok_orig>
+<tok_orig tok_orig="what">
+<pos pos="WP">
+what
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="considered">
+<pos pos="VVD">
+considered
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="inadequacies">
+<pos pos="NNS">
+inadequacies
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="legal">
+<pos pos="JJ">
+legal
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="political">
+<pos pos="JJ">
+political
+</pos>
+</tok_orig>
+<tok_orig tok_orig="structures">
+<pos pos="NNS">
+structures
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="United">
+<pos pos="NP">
+United
+</pos>
+</tok_orig>
+<tok_orig tok_orig="States">
+<pos pos="NP">
+States
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="On">
+<pos pos="IN">
+On
+</pos>
+</tok_orig>
+<date_when date_when="1859-09-17">
+<tok_orig tok_orig="September">
+<pos pos="NP">
+September
+</pos>
+</tok_orig>
+<tok_orig tok_orig="17">
+<pos pos="CD">
+17
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1859">
+<pos pos="CD">
+1859
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="took">
+<pos pos="VVD">
+took
+</pos>
+</tok_orig>
+<tok_orig tok_orig="matters">
+<pos pos="NNS">
+matters
+</pos>
+</tok_orig>
+<tok_orig tok_orig="into">
+<pos pos="IN">
+into
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="own">
+<pos pos="JJ">
+own
+</pos>
+</tok_orig>
+<tok_orig tok_orig="hands">
+<pos pos="NNS">
+hands
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="distributed">
+<pos pos="VVD">
+distributed
+</pos>
+</tok_orig>
+<tok_orig tok_orig="letters">
+<pos pos="NNS">
+letters
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="various">
+<pos pos="JJ">
+various
+</pos>
+</tok_orig>
+<tok_orig tok_orig="newspapers">
+<pos pos="NNS">
+newspapers
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="city">
+<pos pos="NN">
+city
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="proclaiming">
+<pos pos="VVG">
+proclaiming
+</pos>
+</tok_orig>
+<tok_orig tok_orig="himself">
+<pos pos="PP">
+himself
+</pos>
+</tok_orig>
+<q q="q">
+<tok_orig tok_orig=""">
+<pos pos="''">
+"
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Emperor">
+<ref_target ref_target="https://en.wikipedia.org/wiki/Emperor">
+<pos pos="NP">
+Emperor
+</pos>
+</ref_target>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="these">
+<pos pos="DT">
+these
+</pos>
+</tok_orig>
+<tok_orig tok_orig="United">
+<pos pos="NP">
+United
+</pos>
+</tok_orig>
+<tok_orig tok_orig="States">
+<pos pos="NP">
+States
+</pos>
+</tok_orig>
+<tok_orig tok_orig=""">
+<pos pos="``">
+"
+</pos>
+</tok_orig>
+</q>
+<tok_orig tok_orig=":">
+<pos pos=":">
+:
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<quote quote="quote">
+<s_type s_type="decl">
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<tok_orig tok_orig="At">
+<pos pos="IN">
+At
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="peremptory">
+<pos pos="JJ">
+peremptory
+</pos>
+</tok_orig>
+<tok_orig tok_orig="request">
+<pos pos="NN">
+request
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="desire">
+<pos pos="NN">
+desire
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="large">
+<pos pos="JJ">
+large
+</pos>
+</tok_orig>
+<tok_orig tok_orig="majority">
+<pos pos="NN">
+majority
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="citizens">
+<pos pos="NNS">
+citizens
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="these">
+<pos pos="DT">
+these
+</pos>
+</tok_orig>
+<tok_orig tok_orig="United">
+<pos pos="NP">
+United
+</pos>
+</tok_orig>
+<tok_orig tok_orig="States">
+<pos pos="NP">
+States
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="I">
+<pos pos="PP">
+I
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Joshua">
+<pos pos="NP">
+Joshua
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="formerly">
+<pos pos="RB">
+formerly
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/Algoa_Bay">
+<tok_orig tok_orig="Algoa">
+<pos pos="NP">
+Algoa
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Bay">
+<pos pos="NP">
+Bay
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Cape">
+<pos pos="NP">
+Cape
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Good">
+<pos pos="NP">
+Good
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Hope">
+<pos pos="NP">
+Hope
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="now">
+<pos pos="RB">
+now
+</pos>
+</tok_orig>
+<tok_orig tok_orig="for">
+<pos pos="IN">
+for
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="last">
+<pos pos="JJ">
+last
+</pos>
+</tok_orig>
+<tok_orig tok_orig="9">
+<pos pos="CC">
+9
+</pos>
+</tok_orig>
+<tok_orig tok_orig="years">
+<pos pos="NNS">
+years
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="10">
+<pos pos="CD">
+10
+</pos>
+</tok_orig>
+<tok_orig tok_orig="months">
+<pos pos="NNS">
+months
+</pos>
+</tok_orig>
+<tok_orig tok_orig="past">
+<pos pos="JJ">
+past
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="S.F.">
+<sic sic="sic">
+<pos pos="NP">
+<hi_rend hi_rend="space between &amp;quot;S.&amp;quot; and &amp;quot;F.&amp;quot;">
+S.F.
+</hi_rend>
+</pos>
+</sic>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Cal.">
+<pos pos="NP">
+Cal.
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="declare">
+<pos pos="VVP">
+declare
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="proclaim">
+<pos pos="VVP">
+proclaim
+</pos>
+</tok_orig>
+<tok_orig tok_orig="myself">
+<pos pos="PP">
+myself
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Emperor">
+<pos pos="NP">
+Emperor
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="these">
+<pos pos="DT">
+these
+</pos>
+</tok_orig>
+<tok_orig tok_orig="U.S.">
+<sic sic="sic">
+<pos pos="NP">
+<hi_rend hi_rend="space between &amp;quot;U.&amp;quot; and &amp;quot;S.&amp;quot;">
+U.S.
+</hi_rend>
+</pos>
+</sic>
+</tok_orig>
+<tok_orig tok_orig=";">
+<pos pos=":">
+;
+</pos>
+</tok_orig>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="virtue">
+<pos pos="NN">
+virtue
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="authority">
+<pos pos="NN">
+authority
+</pos>
+</tok_orig>
+<tok_orig tok_orig="thereby">
+<pos pos="RB">
+thereby
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="me">
+<pos pos="PP">
+me
+</pos>
+</tok_orig>
+<tok_orig tok_orig="vested">
+<pos pos="VVD">
+vested
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="do">
+<pos pos="VVP">
+do
+</pos>
+</tok_orig>
+<tok_orig tok_orig="hereby">
+<pos pos="RB">
+hereby
+</pos>
+</tok_orig>
+<tok_orig tok_orig="order">
+<pos pos="VVP">
+order
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="direct">
+<pos pos="VVP">
+direct
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="representatives">
+<pos pos="NNS">
+representatives
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="different">
+<pos pos="JJ">
+different
+</pos>
+</tok_orig>
+<tok_orig tok_orig="States">
+<pos pos="NN">
+States
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Union">
+<pos pos="NP">
+Union
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="IN">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="assemble">
+<pos pos="VVP">
+assemble
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Musical">
+<pos pos="NP">
+Musical
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Hall">
+<pos pos="NP">
+Hall
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="this">
+<pos pos="DT">
+this
+</pos>
+</tok_orig>
+<tok_orig tok_orig="city">
+<pos pos="NN">
+city
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="on">
+<pos pos="IN">
+on
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1st">
+<pos pos="JJ">
+1st
+</pos>
+</tok_orig>
+<tok_orig tok_orig="day">
+<pos pos="NN">
+day
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Feb.">
+<pos pos="NP">
+Feb.
+</pos>
+</tok_orig>
+<tok_orig tok_orig="next">
+<pos pos="JJ">
+next
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="then">
+<pos pos="RB">
+then
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="there">
+<pos pos="RB">
+there
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="IN">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="make">
+<pos pos="VVP">
+make
+</pos>
+</tok_orig>
+<tok_orig tok_orig="such">
+<pos pos="DT">
+such
+</pos>
+</tok_orig>
+<tok_orig tok_orig="alterations">
+<pos pos="NNS">
+alterations
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="existing">
+<pos pos="VVG">
+existing
+</pos>
+</tok_orig>
+<tok_orig tok_orig="laws">
+<pos pos="NNS">
+laws
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Union">
+<pos pos="NP">
+Union
+</pos>
+</tok_orig>
+<tok_orig tok_orig="as">
+<pos pos="IN">
+as
+</pos>
+</tok_orig>
+<tok_orig tok_orig="may">
+<pos pos="MD">
+may
+</pos>
+</tok_orig>
+<tok_orig tok_orig="ameliorate">
+<pos pos="VV">
+ameliorate
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="evils">
+<pos pos="NNS">
+evils
+</pos>
+</tok_orig>
+<tok_orig tok_orig="under">
+<pos pos="IN">
+under
+</pos>
+</tok_orig>
+<tok_orig tok_orig="which">
+<pos pos="WDT">
+which
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="country">
+<pos pos="NN">
+country
+</pos>
+</tok_orig>
+<tok_orig tok_orig="is">
+<pos pos="VBZ">
+is
+</pos>
+</tok_orig>
+<tok_orig tok_orig="laboring">
+<pos pos="VVG">
+laboring
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="thereby">
+<pos pos="RB">
+thereby
+</pos>
+</tok_orig>
+<tok_orig tok_orig="cause">
+<pos pos="VVP">
+cause
+</pos>
+</tok_orig>
+<tok_orig tok_orig="confidence">
+<pos pos="NN">
+confidence
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="IN">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="exist">
+<pos pos="VVP">
+exist
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="both">
+<pos pos="DT">
+both
+</pos>
+</tok_orig>
+<tok_orig tok_orig="at">
+<pos pos="IN">
+at
+</pos>
+</tok_orig>
+<tok_orig tok_orig="home">
+<pos pos="NN">
+home
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="abroad">
+<pos pos="NN">
+abroad
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="our">
+<pos pos="PP$">
+our
+</pos>
+</tok_orig>
+<tok_orig tok_orig="stability">
+<pos pos="NN">
+stability
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="integrity">
+<pos pos="NN">
+integrity
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type_orig>
+</p>
+</s_type>
+<s_type_orig s_type_orig="frag">
+<s_type s_type="frag">
+<p p="p">
+<tok_orig tok_orig="—">
+<pos pos=":">
+—
+</pos>
+</tok_orig>
+<tok_orig tok_orig="NORTON">
+<pos pos="NP">
+NORTON
+</pos>
+</tok_orig>
+<tok_orig tok_orig="I">
+<pos pos="NP">
+I
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Emperor">
+<pos pos="NP">
+Emperor
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="United">
+<pos pos="NP">
+United
+</pos>
+</tok_orig>
+<tok_orig tok_orig="States">
+<pos pos="NP">
+States
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</p>
+</s_type>
+</s_type_orig>
+</quote>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="The">
+<pos pos="DT">
+The
+</pos>
+</tok_orig>
+<tok_orig tok_orig="announcement">
+<pos pos="NN">
+announcement
+</pos>
+</tok_orig>
+<tok_orig tok_orig="was">
+<pos pos="VBD">
+was
+</pos>
+</tok_orig>
+<tok_orig tok_orig="first">
+<pos pos="JJ">
+first
+</pos>
+</tok_orig>
+<tok_orig tok_orig="reprinted">
+<pos pos="VVN">
+reprinted
+</pos>
+</tok_orig>
+<tok_orig tok_orig="for">
+<pos pos="IN">
+for
+</pos>
+</tok_orig>
+<tok_orig tok_orig="humorous">
+<pos pos="JJ">
+humorous
+</pos>
+</tok_orig>
+<tok_orig tok_orig="effect">
+<pos pos="NN">
+effect
+</pos>
+</tok_orig>
+<tok_orig tok_orig="by">
+<pos pos="IN">
+by
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="editor">
+<pos pos="NN">
+editor
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/San_Francisco_Bulletin">
+<hi_rend hi_rend="italics">
+<tok_orig tok_orig="San">
+<pos pos="NP">
+San
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Francisco">
+<pos pos="NP">
+Francisco
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Bulletin">
+<pos pos="NP">
+Bulletin
+</pos>
+</tok_orig>
+</hi_rend>
+</ref_target>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig="would">
+<pos pos="MD">
+would
+</pos>
+</tok_orig>
+<tok_orig tok_orig="later">
+<pos pos="RB">
+later
+</pos>
+</tok_orig>
+<tok_orig tok_orig="add">
+<pos pos="VV">
+add
+</pos>
+</tok_orig>
+<q q="q">
+<tok_orig tok_orig=""">
+<pos pos="``">
+"
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Protector">
+<pos pos="NP">
+Protector
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Mexico">
+<pos pos="NP">
+Mexico
+</pos>
+</tok_orig>
+<tok_orig tok_orig=""">
+<pos pos="''">
+"
+</pos>
+</tok_orig>
+</q>
+<tok_orig tok_orig="to">
+<pos pos="IN">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="this">
+<pos pos="DT">
+this
+</pos>
+</tok_orig>
+<tok_orig tok_orig="title">
+<pos pos="NN">
+title
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Thus">
+<pos pos="IN">
+Thus
+</pos>
+</tok_orig>
+<tok_orig tok_orig="commenced">
+<pos pos="VVD">
+commenced
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="unprecedented">
+<pos pos="JJ">
+unprecedented
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="whimsical">
+<pos pos="JJ">
+whimsical
+</pos>
+</tok_orig>
+<tok_orig tok_orig="21-year">
+<pos pos="JJ">
+21-year
+</pos>
+</tok_orig>
+<q q="q">
+<tok_orig tok_orig=""">
+<pos pos="``">
+"
+</pos>
+</tok_orig>
+<tok_orig tok_orig="reign">
+<pos pos="NN">
+reign
+</pos>
+</tok_orig>
+<tok_orig tok_orig=""">
+<pos pos="''">
+"
+</pos>
+</tok_orig>
+</q>
+<tok_orig tok_orig="over">
+<pos pos="IN">
+over
+</pos>
+</tok_orig>
+<tok_orig tok_orig="America">
+<pos pos="NP">
+America
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<s_type_orig s_type_orig="frag">
+<s_type s_type="frag">
+<figure_rend figure_rend="An undated proclamation issued by Emperor Norton I regarding the assumption of his prerogatives by &amp;quot;certain parties&amp;quot; on display at the Wells Fargo History Museum in San Francisco, California.">
+<caption caption="caption">
+<tok_orig tok_orig="One">
+<pos pos="JJ">
+One
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig="'s">
+<pos pos="POS">
+'s
+</pos>
+</tok_orig>
+<tok_orig tok_orig="undated">
+<pos pos="JJ">
+undated
+</pos>
+</tok_orig>
+<tok_orig tok_orig="proclamations">
+<pos pos="NNS">
+proclamations
+</pos>
+</tok_orig>
+</caption>
+</figure_rend>
+</s_type>
+</s_type_orig>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="In">
+<pos pos="IN">
+In
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="self-appointed">
+<pos pos="JJ">
+self-appointed
+</pos>
+</tok_orig>
+<tok_orig tok_orig="role">
+<pos pos="NN">
+role
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="emperor">
+<pos pos="NN">
+emperor
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig="issued">
+<pos pos="VVD">
+issued
+</pos>
+</tok_orig>
+<tok_orig tok_orig="numerous">
+<pos pos="JJ">
+numerous
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decrees">
+<pos pos="NNS">
+decrees
+</pos>
+</tok_orig>
+<tok_orig tok_orig="on">
+<pos pos="IN">
+on
+</pos>
+</tok_orig>
+<tok_orig tok_orig="matters">
+<pos pos="NNS">
+matters
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="state">
+<pos pos="NN">
+state
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="After">
+<pos pos="NNS">
+After
+</pos>
+</tok_orig>
+<tok_orig tok_orig="assuming">
+<pos pos="VVG">
+assuming
+</pos>
+</tok_orig>
+<tok_orig tok_orig="absolute">
+<pos pos="JJ">
+absolute
+</pos>
+</tok_orig>
+<tok_orig tok_orig="control">
+<pos pos="NN">
+control
+</pos>
+</tok_orig>
+<tok_orig tok_orig="over">
+<pos pos="IN">
+over
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="country">
+<pos pos="NN">
+country
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="saw">
+<pos pos="VVD">
+saw
+</pos>
+</tok_orig>
+<tok_orig tok_orig="no">
+<pos pos="DT">
+no
+</pos>
+</tok_orig>
+<tok_orig tok_orig="further">
+<pos pos="JJ">
+further
+</pos>
+</tok_orig>
+<tok_orig tok_orig="need">
+<pos pos="NN">
+need
+</pos>
+</tok_orig>
+<tok_orig tok_orig="for">
+<pos pos="IN">
+for
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="IN">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="legislature">
+<pos pos="NN">
+legislature
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="on">
+<pos pos="IN">
+on
+</pos>
+</tok_orig>
+<date_when date_when="1859-10-12">
+<tok_orig tok_orig="October">
+<pos pos="NP">
+October
+</pos>
+</tok_orig>
+<tok_orig tok_orig="12">
+<pos pos="CD">
+12
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1859">
+<pos pos="CD">
+1859
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="issued">
+<pos pos="VVD">
+issued
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decree">
+<pos pos="NN">
+decree
+</pos>
+</tok_orig>
+<tok_orig tok_orig="formally">
+<pos pos="RB">
+formally
+</pos>
+</tok_orig>
+<tok_orig tok_orig="abolishing">
+<pos pos="VVG">
+abolishing
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/United_States_Congress">
+<tok_orig tok_orig="United">
+<pos pos="NP">
+United
+</pos>
+</tok_orig>
+<tok_orig tok_orig="States">
+<pos pos="NP">
+States
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Congress">
+<pos pos="NP">
+Congress
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type s_type="decl">
+<s_type_orig s_type_orig="decl">
+<tok_orig tok_orig="In">
+<pos pos="IN">
+In
+</pos>
+</tok_orig>
+<tok_orig tok_orig="it">
+<pos pos="PP">
+it
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig="observed">
+<pos pos="VVD">
+observed
+</pos>
+</tok_orig>
+<tok_orig tok_orig=":">
+<pos pos=":">
+:
+</pos>
+</tok_orig>
+</s_type_orig>
+</p>
+<quote quote="quote">
+<s_type_orig s_type_orig="decl">
+<tok_orig tok_orig="...">
+<pos pos=":">
+<gap_reason gap_reason="omitted">
+...
+</gap_reason>
+</pos>
+</tok_orig>
+<tok_orig tok_orig="fraud">
+<pos pos="NN">
+fraud
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="corruption">
+<pos pos="NN">
+corruption
+</pos>
+</tok_orig>
+<tok_orig tok_orig="prevent">
+<pos pos="VVP">
+prevent
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="fair">
+<pos pos="JJ">
+fair
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="proper">
+<pos pos="JJ">
+proper
+</pos>
+</tok_orig>
+<tok_orig tok_orig="expression">
+<pos pos="NN">
+expression
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="public">
+<pos pos="JJ">
+public
+</pos>
+</tok_orig>
+<tok_orig tok_orig="voice">
+<pos pos="NN">
+voice
+</pos>
+</tok_orig>
+<tok_orig tok_orig=";">
+<pos pos=":">
+;
+</pos>
+</tok_orig>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<tok_orig tok_orig="that">
+<pos pos="DT">
+<flag flag="">
+that
+</flag>
+</pos>
+</tok_orig>
+<tok_orig tok_orig="open">
+<pos pos="JJ">
+open
+</pos>
+</tok_orig>
+<tok_orig tok_orig="violation">
+<pos pos="NN">
+violation
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="laws">
+<pos pos="NNS">
+laws
+</pos>
+</tok_orig>
+<tok_orig tok_orig="are">
+<pos pos="VBP">
+are
+</pos>
+</tok_orig>
+<tok_orig tok_orig="constantly">
+<pos pos="RB">
+constantly
+</pos>
+</tok_orig>
+<tok_orig tok_orig="occurring">
+<pos pos="VVG">
+occurring
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="caused">
+<pos pos="VVD">
+caused
+</pos>
+</tok_orig>
+<tok_orig tok_orig="by">
+<pos pos="IN">
+by
+</pos>
+</tok_orig>
+<tok_orig tok_orig="mobs">
+<pos pos="NNS">
+mobs
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="parties">
+<pos pos="NNS">
+parties
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="factions">
+<pos pos="NNS">
+factions
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="undue">
+<pos pos="JJ">
+undue
+</pos>
+</tok_orig>
+<tok_orig tok_orig="influence">
+<pos pos="NN">
+influence
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="NN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="political">
+<pos pos="JJ">
+political
+</pos>
+</tok_orig>
+<tok_orig tok_orig="sects">
+<pos pos="NNS">
+sects
+</pos>
+</tok_orig>
+<tok_orig tok_orig=";">
+<pos pos=":">
+;
+</pos>
+</tok_orig>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<tok_orig tok_orig="that">
+<pos pos="IN/that">
+that
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="citizen">
+<pos pos="NN">
+citizen
+</pos>
+</tok_orig>
+<tok_orig tok_orig="has">
+<pos pos="VHZ">
+has
+</pos>
+</tok_orig>
+<tok_orig tok_orig="not">
+<pos pos="RB">
+not
+</pos>
+</tok_orig>
+<tok_orig tok_orig="that">
+<pos pos="DT">
+that
+</pos>
+</tok_orig>
+<tok_orig tok_orig="protection">
+<pos pos="NN">
+protection
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="person">
+<pos pos="NN">
+person
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="property">
+<pos pos="NN">
+property
+</pos>
+</tok_orig>
+<tok_orig tok_orig="which">
+<pos pos="WDT">
+which
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="is">
+<pos pos="VBZ">
+is
+</pos>
+</tok_orig>
+<tok_orig tok_orig="entitled">
+<pos pos="VVN">
+entitled
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type_orig>
+</quote>
+</s_type>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<p p="p">
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig="ordered">
+<pos pos="VVD">
+ordered
+</pos>
+</tok_orig>
+<tok_orig tok_orig="all">
+<pos pos="DT">
+all
+</pos>
+</tok_orig>
+<tok_orig tok_orig="interested">
+<pos pos="JJ">
+interested
+</pos>
+</tok_orig>
+<tok_orig tok_orig="parties">
+<pos pos="NNS">
+parties
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="assemble">
+<pos pos="VV">
+assemble
+</pos>
+</tok_orig>
+<tok_orig tok_orig="at">
+<pos pos="IN">
+at
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Platt">
+<pos pos="NP">
+Platt
+</pos>
+</tok_orig>
+<tok_orig tok_orig="'s">
+<pos pos="POS">
+'s
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Music">
+<pos pos="NP">
+Music
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Hall">
+<pos pos="NP">
+Hall
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="San">
+<pos pos="NP">
+San
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Francisco">
+<pos pos="NP">
+Francisco
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<date_when date_when="1860-02">
+<tok_orig tok_orig="February">
+<pos pos="NP">
+February
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1860">
+<pos pos="CD">
+1860
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig="to">
+<pos pos="IN">
+to
+</pos>
+</tok_orig>
+<q q="q">
+<tok_orig tok_orig=""">
+<pos pos="``">
+"
+</pos>
+</tok_orig>
+<tok_orig tok_orig="remedy">
+<pos pos="VVP">
+remedy
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="evil">
+<pos pos="JJ">
+evil
+</pos>
+</tok_orig>
+<tok_orig tok_orig="complained">
+<pos pos="VVD">
+complained
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig=""">
+<pos pos="''">
+"
+</pos>
+</tok_orig>
+</q>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</p>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<p p="p">
+<tok_orig tok_orig="In">
+<pos pos="IN">
+In
+</pos>
+</tok_orig>
+<tok_orig tok_orig="an">
+<pos pos="DT">
+an
+</pos>
+</tok_orig>
+<tok_orig tok_orig="imperial">
+<pos pos="JJ">
+imperial
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decree">
+<pos pos="NN">
+decree
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="following">
+<pos pos="IN">
+following
+</pos>
+</tok_orig>
+<tok_orig tok_orig="month">
+<pos pos="NN">
+month
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+Norton
+</pos>
+</tok_orig>
+<tok_orig tok_orig="summoned">
+<pos pos="VVD">
+summoned
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Army">
+<pos pos="NP">
+Army
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="depose">
+<pos pos="VVP">
+depose
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="elected">
+<pos pos="VVD">
+elected
+</pos>
+</tok_orig>
+<tok_orig tok_orig="officials">
+<pos pos="NNS">
+officials
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="U.S.">
+<pos pos="NP">
+U.S.
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Congress">
+<pos pos="NP">
+Congress
+</pos>
+</tok_orig>
+<tok_orig tok_orig=":">
+<pos pos=":">
+:
+</pos>
+</tok_orig>
+</p>
+</s_type>
+</s_type_orig>
+<quote quote="quote">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<p p="p">
+<tok_orig tok_orig="WHEREAS">
+<pos pos="IN">
+WHEREAS
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="body">
+<pos pos="NP">
+body
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="men">
+<pos pos="NNS">
+men
+</pos>
+</tok_orig>
+<tok_orig tok_orig="calling">
+<pos pos="VVG">
+calling
+</pos>
+</tok_orig>
+<tok_orig tok_orig="themselves">
+<pos pos="PP">
+themselves
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="National">
+<pos pos="NP">
+National
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Congress">
+<pos pos="NP">
+Congress
+</pos>
+</tok_orig>
+<tok_orig tok_orig="are">
+<pos pos="VBP">
+are
+</pos>
+</tok_orig>
+<tok_orig tok_orig="now">
+<pos pos="RB">
+now
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="session">
+<pos pos="NN">
+session
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Washington">
+<pos pos="NP">
+Washington
+</pos>
+</tok_orig>
+<tok_orig tok_orig="City">
+<pos pos="NP">
+City
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="violation">
+<pos pos="NN">
+violation
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="our">
+<pos pos="PP$">
+our
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Imperial">
+<pos pos="JJ">
+Imperial
+</pos>
+</tok_orig>
+<tok_orig tok_orig="edict">
+<pos pos="NN">
+edict
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<date_when date_when="1859-10-12">
+<tok_orig tok_orig="12th">
+<pos pos="JJ">
+12th
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="October">
+<pos pos="NP">
+October
+</pos>
+</tok_orig>
+<tok_orig tok_orig="last">
+<pos pos="IN">
+last
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="declaring">
+<pos pos="VVG">
+declaring
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="said">
+<pos pos="VVD">
+said
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Congress">
+<pos pos="NP">
+Congress
+</pos>
+</tok_orig>
+<tok_orig tok_orig="abolished">
+<pos pos="VVD">
+abolished
+</pos>
+</tok_orig>
+<tok_orig tok_orig=";">
+<pos pos=":">
+;
+</pos>
+</tok_orig>
+</p>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<p p="p">
+<tok_orig tok_orig="WHEREAS">
+<pos pos="IN">
+WHEREAS
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="it">
+<pos pos="PP">
+it
+</pos>
+</tok_orig>
+<tok_orig tok_orig="is">
+<pos pos="VBZ">
+is
+</pos>
+</tok_orig>
+<tok_orig tok_orig="necessary">
+<pos pos="JJ">
+necessary
+</pos>
+</tok_orig>
+<tok_orig tok_orig="for">
+<pos pos="IN">
+for
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="repose">
+<pos pos="NN">
+repose
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="our">
+<pos pos="PP$">
+our
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Empire">
+<pos pos="NP">
+Empire
+</pos>
+</tok_orig>
+<tok_orig tok_orig="that">
+<pos pos="IN/that">
+that
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="said">
+<pos pos="VVD">
+said
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decree">
+<pos pos="NN">
+decree
+</pos>
+</tok_orig>
+<tok_orig tok_orig="should">
+<pos pos="MD">
+should
+</pos>
+</tok_orig>
+<tok_orig tok_orig="be">
+<pos pos="VB">
+be
+</pos>
+</tok_orig>
+<tok_orig tok_orig="strictly">
+<pos pos="RB">
+strictly
+</pos>
+</tok_orig>
+<tok_orig tok_orig="complied">
+<pos pos="VVD">
+complied
+</pos>
+</tok_orig>
+<tok_orig tok_orig="with">
+<pos pos="TO">
+with
+</pos>
+</tok_orig>
+<tok_orig tok_orig=";">
+<pos pos=":">
+;
+</pos>
+</tok_orig>
+</p>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<p p="p">
+<tok_orig tok_orig="NOW">
+<pos pos="RB">
+NOW
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="THEREFORE">
+<pos pos="IN">
+THEREFORE
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="we">
+<pos pos="PP">
+we
+</pos>
+</tok_orig>
+<tok_orig tok_orig="do">
+<pos pos="VVP">
+do
+</pos>
+</tok_orig>
+<tok_orig tok_orig="hereby">
+<pos pos="RB">
+hereby
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Order">
+<pos pos="VVP">
+Order
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Direct">
+<pos pos="VVP">
+Direct
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/Winfield_Scott">
+<tok_orig tok_orig="Major-General">
+<pos pos="NP">
+Major-General
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Scott">
+<pos pos="NP">
+Scott
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Command-in-Chief">
+<pos pos="NN">
+Command-in-Chief
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="our">
+<pos pos="PP$">
+our
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Armies">
+<pos pos="NP">
+Armies
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="immediately">
+<pos pos="RB">
+immediately
+</pos>
+</tok_orig>
+<tok_orig tok_orig="upon">
+<pos pos="IN">
+upon
+</pos>
+</tok_orig>
+<tok_orig tok_orig="receipt">
+<pos pos="NN">
+receipt
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="this">
+<pos pos="PP">
+this
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="our">
+<pos pos="PP$">
+our
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Decree">
+<pos pos="NN">
+Decree
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="IN">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="proceed">
+<pos pos="VVP">
+proceed
+</pos>
+</tok_orig>
+<tok_orig tok_orig="with">
+<pos pos="IN">
+with
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="suitable">
+<pos pos="JJ">
+suitable
+</pos>
+</tok_orig>
+<tok_orig tok_orig="force">
+<pos pos="NN">
+force
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="clear">
+<pos pos="VVP">
+clear
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Halls">
+<pos pos="NN">
+Halls
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Congress">
+<pos pos="NP">
+Congress
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</p>
+</s_type>
+</s_type_orig>
+</quote>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+<flag flag="STOP HERE">
+SENT
+</flag>
+</pos>
+</tok_orig>
+<tok_orig tok_orig="'s">
+<pos pos="POS">
+p
+</pos>
+</tok_orig>
+<tok_orig tok_orig="orders">
+<pos pos="NNS">
+POS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="were">
+<pos pos="VBD">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="ignored">
+<pos pos="VVD">
+VBD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="by">
+<pos pos="IN">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Army">
+<pos pos="NP">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Congress">
+<pos pos="NP">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig="likewise">
+<pos pos="VB">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="continued">
+<pos pos="VVD">
+VB
+</pos>
+</tok_orig>
+<tok_orig tok_orig="without">
+<pos pos="IN">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="any">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="formal">
+<pos pos="JJ">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="acknowledgement">
+<pos pos="NN">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decree">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+NN
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Further">
+<pos pos="RB">
+SENT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decrees">
+<pos pos="NNS">
+decl
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1860">
+<pos pos="CD">
+<date_when date_when="1860">
+IN
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig="dissolved">
+<pos pos="VVD">
+1860
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="republic">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="forbade">
+<pos pos="VVD">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="assembly">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="any">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="members">
+<pos pos="NNS">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="former">
+<pos pos="JJ">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Congress">
+<pos pos="NP">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+NP
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+SENT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="'s">
+<pos pos="POS">
+decl
+</pos>
+</tok_orig>
+<tok_orig tok_orig="battle">
+<pos pos="NN">
+POS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="against">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="elected">
+<pos pos="VVD">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="leaders">
+<pos pos="NNS">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="America">
+<pos pos="NP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="persisted">
+<pos pos="VVD">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="throughout">
+<pos pos="IN">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="reign">
+<pos pos="NN">
+PP$
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="though">
+<pos pos="IN">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="it">
+<pos pos="PP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="appears">
+<pos pos="VVZ">
+PP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+VVZ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="eventually">
+<pos pos="RB">
+PP
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+RB
+</pos>
+</tok_orig>
+<tok_orig tok_orig="if">
+<pos pos="IN">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="grudgingly">
+<pos pos="RB">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+RB
+</pos>
+</tok_orig>
+<tok_orig tok_orig="allowed">
+<pos pos="VVD">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Congress">
+<pos pos="NP">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="exist">
+<pos pos="VV">
+TO
+</pos>
+</tok_orig>
+<tok_orig tok_orig="without">
+<pos pos="IN">
+VV
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="permission">
+<pos pos="NN">
+PP$
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+NN
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Hoping">
+<pos pos="VVG">
+SENT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="IN">
+decl
+</pos>
+</tok_orig>
+<tok_orig tok_orig="resolve">
+<pos pos="VV">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+VV
+</pos>
+</tok_orig>
+<tok_orig tok_orig="many">
+<pos pos="JJ">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="disputes">
+<pos pos="NNS">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="that">
+<pos pos="IN/that">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="had">
+<pos pos="VHD">
+IN/that
+</pos>
+</tok_orig>
+<tok_orig tok_orig="resulted">
+<pos pos="VVD">
+VHD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/American_Civil_War">
+<tok_orig tok_orig="Civil">
+<pos pos="NP">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="War">
+<pos pos="NP">
+https://en.wikipedia.org/wiki/American_Civil_War
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig=",">
+<pos pos=",">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1862">
+<pos pos="CD">
+<date_when date_when="1862">
+IN
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+1862
+</pos>
+</tok_orig>
+<tok_orig tok_orig="issued">
+<pos pos="VVD">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="mandate">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="ordering">
+<pos pos="VVG">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="both">
+<pos pos="PDT">
+VVG
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+PDT
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/Roman_Catholic_Church">
+<tok_orig tok_orig="Roman">
+<pos pos="NP">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Catholic">
+<pos pos="NP">
+https://en.wikipedia.org/wiki/Roman_Catholic_Church
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Church">
+<pos pos="NP">
+NP
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Protestant">
+<ref_target ref_target="https://en.wikipedia.org/wiki/Protestantism">
+<pos pos="JJ">
+DT
+</pos>
+</ref_target>
+</tok_orig>
+<tok_orig tok_orig="churches">
+<pos pos="NNS">
+https://en.wikipedia.org/wiki/Protestantism
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="publicly">
+<pos pos="RB">
+TO
+</pos>
+</tok_orig>
+<tok_orig tok_orig="ordain">
+<pos pos="VVP">
+RB
+</pos>
+</tok_orig>
+<tok_orig tok_orig="him">
+<pos pos="PP$">
+VVP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="as">
+<pos pos="IN">
+PP$
+</pos>
+</tok_orig>
+<q q="q">
+<tok_orig tok_orig=""">
+<pos pos="``">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Emperor">
+<pos pos="NN">
+q
+</pos>
+</tok_orig>
+<tok_orig tok_orig=""">
+<pos pos="''">
+NN
+</pos>
+</tok_orig>
+</q>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+''
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="His">
+<pos pos="PP$">
+SENT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="attempts">
+<pos pos="NNS">
+p
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="overthrow">
+<pos pos="VVP">
+TO
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+VVP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="elected">
+<pos pos="VVD">
+<flag flag="? OR JJ">
+DT
+</flag>
+</pos>
+</tok_orig>
+<tok_orig tok_orig="government">
+<pos pos="NN">
+? OR JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="having">
+<pos pos="VHG">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="been">
+<pos pos="VBN">
+VHG
+</pos>
+</tok_orig>
+<tok_orig tok_orig="ignored">
+<pos pos="VVD">
+VBN
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos="SENT">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+SENT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="turned">
+<pos pos="VVD">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="attention">
+<pos pos="NN">
+PP$
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="other">
+<pos pos="DT">
+TO
+</pos>
+</tok_orig>
+<tok_orig tok_orig="matters">
+<pos pos="NNS">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="both">
+<pos pos="DT">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="political">
+<pos pos="JJ">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="social">
+<pos pos="JJ">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+JJ
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="On">
+<pos pos="IN">
+SENT
+</pos>
+</tok_orig>
+<date_when date_when="1869-08-12">
+<tok_orig tok_orig="August">
+<pos pos="NP">
+decl
+</pos>
+</tok_orig>
+<tok_orig tok_orig="12">
+<pos pos="CD">
+1869-08-12
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+CD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1869">
+<pos pos="CD">
+,
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig=",">
+<pos pos=",">
+CD
+</pos>
+</tok_orig>
+<quote quote="quote">
+<tok_orig tok_orig=""">
+<pos pos="``">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="being">
+<pos pos="VBG">
+quote
+</pos>
+</tok_orig>
+<tok_orig tok_orig="desirous">
+<pos pos="JJ">
+VBG
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="allaying">
+<pos pos="VVG">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+VVG
+</pos>
+</tok_orig>
+<tok_orig tok_orig="dissensions">
+<pos pos="NNS">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="party">
+<pos pos="NN">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="strife">
+<pos pos="NN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="now">
+<pos pos="RB">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="existing">
+<pos pos="VVG">
+RB
+</pos>
+</tok_orig>
+<tok_orig tok_orig="within">
+<pos pos="IN">
+VVG
+</pos>
+</tok_orig>
+<tok_orig tok_orig="our">
+<pos pos="PP$">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="realm">
+<pos pos="NN">
+PP$
+</pos>
+</tok_orig>
+<tok_orig tok_orig=""">
+<pos pos="''">
+NN
+</pos>
+</tok_orig>
+</quote>
+<tok_orig tok_orig=",">
+<pos pos=",">
+''
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="abolished">
+<pos pos="VVD">
+PP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Democratic">
+<ref_target ref_target="https://en.wikipedia.org/wiki/United_States_Democratic_Party">
+<pos pos="JJ">
+DT
+</pos>
+</ref_target>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+https://en.wikipedia.org/wiki/United_States_Democratic_Party
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Republican">
+<ref_target ref_target="https://en.wikipedia.org/wiki/United_States_Republican_Party">
+<pos pos="JJ">
+CC
+</pos>
+</ref_target>
+</tok_orig>
+<tok_orig tok_orig="parties">
+<pos pos="NNS">
+https://en.wikipedia.org/wiki/United_States_Republican_Party
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+NNS
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="The">
+<pos pos="DT">
+SENT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="failure">
+<pos pos="NN">
+decl
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="treat">
+<pos pos="VVP">
+TO
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+VVP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="'s">
+<pos pos="POS">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="adopted">
+<pos pos="VVD">
+POS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="home">
+<pos pos="NN">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="city">
+<pos pos="NN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="with">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="appropriate">
+<pos pos="JJ">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="respect">
+<pos pos="NN">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="is">
+<pos pos="VBZ">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+VBZ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="subject">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="particularly">
+<pos pos="RB">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="stern">
+<pos pos="JJ">
+RB
+</pos>
+</tok_orig>
+<tok_orig tok_orig="edict">
+<pos pos="NN">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="that">
+<pos pos="IN/that">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="often">
+<pos pos="RB">
+IN/that
+</pos>
+</tok_orig>
+<tok_orig tok_orig="is">
+<pos pos="VBZ">
+RB
+</pos>
+</tok_orig>
+<tok_orig tok_orig="cited">
+<pos pos="VVN">
+VBZ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="as">
+<pos pos="IN">
+VVN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="having">
+<pos pos="VVG">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="been">
+<pos pos="VBN">
+VVG
+</pos>
+</tok_orig>
+<tok_orig tok_orig="written">
+<pos pos="VVD">
+VBN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="by">
+<pos pos="IN">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1872">
+<pos pos="CD">
+<date_when date_when="1872">
+IN
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig="—">
+<pos pos=":">
+1872
+</pos>
+</tok_orig>
+<tok_orig tok_orig="although">
+<pos pos="IN">
+:
+</pos>
+</tok_orig>
+<tok_orig tok_orig="evidence">
+<pos pos="NN">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="for">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="authorship">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="date">
+<pos pos="NN">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="or">
+<pos pos="CC">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="source">
+<pos pos="NN">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="this">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decree">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="remains">
+<pos pos="NNS">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="elusive">
+<pos pos="JJ">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig=":">
+<pos pos=":">
+JJ
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<quote quote="quote">
+<tok_orig tok_orig="Whoever">
+<pos pos="WP">
+:
+</pos>
+</tok_orig>
+<tok_orig tok_orig="after">
+<pos pos="IN">
+quote
+</pos>
+</tok_orig>
+<tok_orig tok_orig="due">
+<pos pos="JJ">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="proper">
+<pos pos="JJ">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig="warning">
+<pos pos="NN">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="shall">
+<pos pos="MD">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="be">
+<pos pos="VB">
+MD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="heard">
+<pos pos="VVD">
+VB
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="utter">
+<pos pos="VVP">
+TO
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+VVP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="abominable">
+<pos pos="JJ">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="word">
+<pos pos="NN">
+JJ
+</pos>
+</tok_orig>
+<q q="q">
+<tok_orig tok_orig=""">
+<pos pos="``">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Frisco">
+<pos pos="NP">
+q
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig=""">
+<pos pos="''">
+,
+</pos>
+</tok_orig>
+</q>
+<tok_orig tok_orig="which">
+<pos pos="WDT">
+''
+</pos>
+</tok_orig>
+<tok_orig tok_orig="has">
+<pos pos="VHP">
+WDT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="no">
+<pos pos="DT">
+VHP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="linguistic">
+<pos pos="JJ">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="or">
+<pos pos="CC">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="other">
+<pos pos="DT">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig="warrant">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="shall">
+<pos pos="MD">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="be">
+<pos pos="VB">
+MD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="deemed">
+<pos pos="VVD">
+VB
+</pos>
+</tok_orig>
+<tok_orig tok_orig="guilty">
+<pos pos="JJ">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="High">
+<pos pos="JJ">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Misdemeanor">
+<pos pos="NN">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="shall">
+<pos pos="MD">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig="pay">
+<pos pos="VV">
+MD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="into">
+<pos pos="IN">
+VV
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Imperial">
+<pos pos="NP">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Treasury">
+<pos pos="NP">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="as">
+<pos pos="IN">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="penalty">
+<pos pos="NN">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="sum">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="twenty-five">
+<pos pos="CD">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="dollars">
+<pos pos="NN">
+CD
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+NN
+</pos>
+</tok_orig>
+</quote>
+</s_type>
+</s_type_orig>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+SENT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="was">
+<pos pos="VBD">
+p
+</pos>
+</tok_orig>
+<tok_orig tok_orig="occasionally">
+<pos pos="RB">
+VBD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+RB
+</pos>
+</tok_orig>
+<tok_orig tok_orig="visionary">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="some">
+<pos pos="DT">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Imperial">
+<pos pos="JJ">
+PP$
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Decrees">
+<pos pos="NN">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="exhibited">
+<pos pos="VVD">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="profound">
+<pos pos="JJ">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="foresight">
+<pos pos="NN">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+NN
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="He">
+<pos pos="PP">
+SENT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="issued">
+<pos pos="VVD">
+decl
+</pos>
+</tok_orig>
+<tok_orig tok_orig="instructions">
+<pos pos="NNS">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="form">
+<pos pos="VVP">
+TO
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+VVP
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/League_of_Nations">
+<tok_orig tok_orig="League">
+<pos pos="NP">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+https://en.wikipedia.org/wiki/League_of_Nations
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Nations">
+<pos pos="NP">
+IN
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig=",">
+<pos pos=",">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig="explicitly">
+<pos pos="RB">
+PP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="forbade">
+<pos pos="VVD">
+RB
+</pos>
+</tok_orig>
+<tok_orig tok_orig="any">
+<pos pos="DT">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="form">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="conflict">
+<pos pos="NN">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="between">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="religions">
+<pos pos="NNS">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="or">
+<pos pos="CC">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="their">
+<pos pos="PP$">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig="sects">
+<pos pos="NNS">
+PP$
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+NNS
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Norton">
+<pos pos="NP">
+SENT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="saw">
+<pos pos="VVD">
+decl
+</pos>
+</tok_orig>
+<tok_orig tok_orig="fit">
+<pos pos="VV">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+VV
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decree">
+<pos pos="VVP">
+TO
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+VVP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="construction">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="suspension">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="bridge">
+<pos pos="NN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="or">
+<pos pos="CC">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="tunnel">
+<pos pos="NN">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig="connecting">
+<pos pos="VVG">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Oakland">
+<ref_target ref_target="https://en.wikipedia.org/wiki/Oakland,_California">
+<pos pos="NP">
+VVG
+</pos>
+</ref_target>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="IN">
+https://en.wikipedia.org/wiki/Oakland,_California
+</pos>
+</tok_orig>
+<tok_orig tok_orig="San">
+<pos pos="NP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Francisco">
+<pos pos="NP">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="later">
+<pos pos="RB">
+PP$
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decrees">
+<pos pos="NNS">
+RB
+</pos>
+</tok_orig>
+<tok_orig tok_orig="becoming">
+<pos pos="VVG">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="increasingly">
+<pos pos="RB">
+VVG
+</pos>
+</tok_orig>
+<tok_orig tok_orig="irritated">
+<pos pos="VVD">
+RB
+</pos>
+</tok_orig>
+<tok_orig tok_orig="at">
+<pos pos="IN">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="lack">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="prompt">
+<pos pos="JJ">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="obedience">
+<pos pos="NN">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="by">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="authorities">
+<pos pos="NNS">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig=":">
+<pos pos=":">
+NNS
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<quote quote="quote">
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="WHEREAS">
+<pos pos="IN">
+:
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+quote
+</pos>
+</tok_orig>
+<tok_orig tok_orig="we">
+<pos pos="PP">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="issued">
+<pos pos="VVD">
+PP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="our">
+<pos pos="PP$">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decree">
+<pos pos="NN">
+PP$
+</pos>
+</tok_orig>
+<tok_orig tok_orig="ordering">
+<pos pos="VVG">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+VVG
+</pos>
+</tok_orig>
+<tok_orig tok_orig="citizens">
+<pos pos="NNS">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="San">
+<pos pos="NP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Francisco">
+<pos pos="NP">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Oakland">
+<pos pos="NP">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="IN">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="appropriate">
+<pos pos="VVP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="funds">
+<pos pos="NNS">
+VVP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="for">
+<pos pos="IN">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="survey">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="suspension">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="bridge">
+<pos pos="NN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="from">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Oakland">
+<pos pos="NP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Point">
+<pos pos="NP">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="via">
+<pos pos="IN">
+NP
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/Yerba_Buena_Island">
+<tok_orig tok_orig="Goat">
+<pos pos="NP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Island">
+<pos pos="NP">
+https://en.wikipedia.org/wiki/Yerba_Buena_Island
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig=";">
+<pos pos=":">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="also">
+<pos pos="IN">
+:
+</pos>
+</tok_orig>
+<tok_orig tok_orig="for">
+<pos pos="IN">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="tunnel">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig=";">
+<pos pos=":">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+:
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig="ascertain">
+<pos pos="VVP">
+TO
+</pos>
+</tok_orig>
+<tok_orig tok_orig="which">
+<pos pos="WDT">
+VVP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="is">
+<pos pos="VBZ">
+WDT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+VBZ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="best">
+<pos pos="JJS">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="project">
+<pos pos="NN">
+JJS
+</pos>
+</tok_orig>
+<tok_orig tok_orig=";">
+<pos pos=":">
+NN
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="and">
+<pos pos="CC">
+:
+</pos>
+</tok_orig>
+<tok_orig tok_orig="whereas">
+<pos pos="IN">
+decl
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="said">
+<pos pos="JJ">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="citizens">
+<pos pos="NNS">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="have">
+<pos pos="VHD">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="hitherto">
+<pos pos="IN">
+VHD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="neglected">
+<pos pos="VVD">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="notice">
+<pos pos="VVP">
+TO
+</pos>
+</tok_orig>
+<tok_orig tok_orig="our">
+<pos pos="PP$">
+VVP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="said">
+<pos pos="JJ">
+PP$
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decree">
+<pos pos="NN">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig=";">
+<pos pos=":">
+NN
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="and">
+<pos pos="CC">
+:
+</pos>
+</tok_orig>
+<tok_orig tok_orig="whereas">
+<pos pos="IN">
+decl
+</pos>
+</tok_orig>
+<tok_orig tok_orig="we">
+<pos pos="PP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="are">
+<pos pos="VBP">
+PP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="determined">
+<pos pos="VVD">
+VBP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="our">
+<pos pos="PP$">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="authority">
+<pos pos="NN">
+PP$
+</pos>
+</tok_orig>
+<tok_orig tok_orig="shall">
+<pos pos="MD">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="be">
+<pos pos="VB">
+MD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="fully">
+<pos pos="RB">
+VB
+</pos>
+</tok_orig>
+<tok_orig tok_orig="respected">
+<pos pos="VVD">
+RB
+</pos>
+</tok_orig>
+<tok_orig tok_orig=";">
+<pos pos=":">
+VVD
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="now">
+<pos pos="RB">
+:
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+decl
+</pos>
+</tok_orig>
+<tok_orig tok_orig="therefore">
+<pos pos="IN">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="we">
+<pos pos="PP">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="do">
+<pos pos="VVP">
+PP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="hereby">
+<pos pos="IN">
+VVP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="command">
+<pos pos="VVP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+VVP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="arrest">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="by">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="army">
+<pos pos="NN">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="both">
+<pos pos="PDT">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+PDT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Boards">
+<pos pos="NP">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="City">
+<pos pos="NP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Fathers">
+<pos pos="NP">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="if">
+<pos pos="IN">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="they">
+<pos pos="PP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="persist">
+<pos pos="VVP">
+PP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+VVP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="neglecting">
+<pos pos="VVG">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="our">
+<pos pos="PP$">
+VVG
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decrees">
+<pos pos="NNS">
+PP$
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+NNS
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<s_type_orig s_type_orig="ger">
+<s_type s_type="frag">
+<p p="p">
+<tok_orig tok_orig="Given">
+<pos pos="VVD">
+SENT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="under">
+<pos pos="IN">
+p
+</pos>
+</tok_orig>
+<tok_orig tok_orig="our">
+<pos pos="PP$">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="royal">
+<pos pos="JJ">
+PP$
+</pos>
+</tok_orig>
+<tok_orig tok_orig="hand">
+<pos pos="NN">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="seal">
+<pos pos="NN">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig="at">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="San">
+<pos pos="NP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Francisco">
+<pos pos="NP">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="this">
+<pos pos="PP">
+,
+</pos>
+</tok_orig>
+<date_when date_when="1872-09-17">
+<tok_orig tok_orig="17th">
+<pos pos="JJ">
+PP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="day">
+<pos pos="NN">
+1872-09-17
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="September">
+<pos pos="NP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1872">
+<pos pos="CD">
+,
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+CD
+</pos>
+</tok_orig>
+</p>
+</s_type>
+</s_type_orig>
+</quote>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="The">
+<pos pos="DT">
+SENT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="intent">
+<pos pos="NN">
+p
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="this">
+<pos pos="PP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decree">
+<pos pos="NN">
+PP
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="unlike">
+<pos pos="JJ">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="many">
+<pos pos="JJ">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="others">
+<pos pos="NNS">
+JJ
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+NNS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="actually">
+<pos pos="RB">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="came">
+<pos pos="VVD">
+RB
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="IN">
+VVD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="fruition">
+<pos pos="NN">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig=";">
+<pos pos=":">
+NN
+</pos>
+</tok_orig>
+</s_type>
+<s_type s_type="decl">
+<tok_orig tok_orig="construction">
+<pos pos="NN">
+:
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+decl
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+IN
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/San_Francisco%E2%80%93Oakland_Bay_Bridge">
+<tok_orig tok_orig="San">
+<pos pos="NP">
+DT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Francisco">
+<pos pos="NP">
+https://en.wikipedia.org/wiki/San_Francisco%E2%80%93Oakland_Bay_Bridge
+</pos>
+</tok_orig>
+<tok_orig tok_orig="–">
+<pos pos=":">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Oakland">
+<pos pos="NP">
+:
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Bay">
+<pos pos="NP">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Bridge">
+<pos pos="NP">
+NP
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig="began">
+<pos pos="VVD">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="on">
+<pos pos="IN">
+VVD
+</pos>
+</tok_orig>
+<date_when date_when="1933-07-09">
+<tok_orig tok_orig="July">
+<pos pos="NP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="9">
+<pos pos="CD">
+1933-07-09
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+CD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1933">
+<pos pos="CD">
+,
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+CD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="was">
+<pos pos="VBD">
+CC
+</pos>
+</tok_orig>
+<tok_orig tok_orig="completed">
+<pos pos="VVN">
+VBD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="on">
+<pos pos="IN">
+VVN
+</pos>
+</tok_orig>
+<date_when date_when="1936-11-12">
+<tok_orig tok_orig="November">
+<pos pos="NP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="12">
+<pos pos="CD">
+1936-11-12
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+CD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1936">
+<pos pos="CD">
+,
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+CD
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="The">
+<pos pos="IN">
+SENT
+</pos>
+</tok_orig>
+<tok_orig tok_orig="construction">
+<pos pos="NN">
+decl
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+NN
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/Bay_Area_Rapid_Transit">
+<tok_orig tok_orig="Bay">
+<pos pos="NP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Area">
+<pos pos="NP">
+https://en.wikipedia.org/wiki/Bay_Area_Rapid_Transit
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Rapid">
+<pos pos="NP">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Transit">
+<pos pos="NP">
+NP
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig="'s">
+<pos pos="POS">
+NP
+</pos>
+</tok_orig>
+<ref_target ref_target="https://en.wikipedia.org/wiki/Transbay_Tube">
+<tok_orig tok_orig="Transbay">
+<pos pos="NP">
+POS
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Tube">
+<pos pos="NP">
+https://en.wikipedia.org/wiki/Transbay_Tube
+</pos>
+</tok_orig>
+</ref_target>
+<tok_orig tok_orig="was">
+<pos pos="VBD">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="completed">
+<pos pos="VVN">
+VBD
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+VVN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1969">
+<pos pos="CD">
+<date_when date_when="1969">
+IN
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+1969
+</pos>
+</tok_orig>
+<tok_orig tok_orig="with">
+<pos pos="IN">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Transbay">
+<pos pos="NP">
+IN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="rail">
+<pos pos="NN">
+NP
+</pos>
+</tok_orig>
+<tok_orig tok_orig="service">
+<pos pos="NN">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="commencing">
+<pos pos="VVG">
+NN
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+VVG
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1974">
+<pos pos="CD">
+<date_when date_when="1974">
+IN
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+1974
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+</text_id>
+</meta>
