@@ -1,0 +1,4799 @@
+<meta author="Ptf57, Aboutmovies, Bender the Bot and others (see URL)" dateCollected="2017-09-13" dateCreated="2013-04-26" dateModified="2017-05-19" shortTitle="Nida" sourceURL="https://en.wikipedia.org/wiki/Eugene_Nida" speakerCount="0" speakerList="none" title="Eugene Nida" type="bio">
+<text_id text_id="GUM_bio_nida">
+<s_type_orig s_type_orig="frag">
+<s_type s_type="frag">
+<head head="head">
+<tok_orig tok_orig="Eugene">
+<pos pos="NP">
+Eugene
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Nida">
+<pos pos="NP">
+Nida
+</pos>
+</tok_orig>
+</head>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<p p="p">
+<hi_rend hi_rend="bold">
+<tok_orig tok_orig="Eugene">
+<pos pos="NP">
+Eugene
+</pos>
+</tok_orig>
+<tok_orig tok_orig="A.">
+<pos pos="NP">
+A.
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Nida">
+<pos pos="NP">
+Nida
+</pos>
+</tok_orig>
+</hi_rend>
+<tok_orig tok_orig="(">
+<pos pos="(">
+(
+</pos>
+</tok_orig>
+<date_when date_when="1914-11-11">
+<tok_orig tok_orig="November">
+<pos pos="NP">
+November
+</pos>
+</tok_orig>
+<tok_orig tok_orig="11">
+<pos pos="CD">
+11
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1914">
+<pos pos="CD">
+1914
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig="–">
+<pos pos=":">
+–
+</pos>
+</tok_orig>
+<date_when date_when="2011-08-25">
+<tok_orig tok_orig="August">
+<pos pos="NP">
+August
+</pos>
+</tok_orig>
+<tok_orig tok_orig="25">
+<pos pos="CD">
+25
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="2011">
+<pos pos="CD">
+2011
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig=")">
+<pos pos=")">
+)
+</pos>
+</tok_orig>
+<tok_orig tok_orig="was">
+<pos pos="VBD">
+was
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="linguist">
+<ref ref="ref">
+<pos pos="NN">
+linguist
+</pos>
+</ref>
+</tok_orig>
+<tok_orig tok_orig="who">
+<pos pos="WP">
+who
+</pos>
+</tok_orig>
+<tok_orig tok_orig="developed">
+<pos pos="VVD">
+developed
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="dynamic-equivalence">
+<ref ref="ref">
+<pos pos="JJ">
+dynamic-equivalence
+</pos>
+</ref>
+</tok_orig>
+<tok_orig tok_orig="Bible-translation">
+<ref ref="ref">
+<pos pos="NP">
+Bible-translation
+</pos>
+</ref>
+</tok_orig>
+<tok_orig tok_orig="theory">
+<pos pos="NN">
+theory
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="one">
+<pos pos="CD">
+one
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="founders">
+<pos pos="NNS">
+founders
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="modern">
+<pos pos="JJ">
+modern
+</pos>
+</tok_orig>
+<tok_orig tok_orig="discipline">
+<pos pos="NN">
+discipline
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Translation">
+<pos pos="NP">
+Translation
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Studies">
+<pos pos="NPS">
+Studies
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</p>
+</s_type>
+</s_type_orig>
+<tok_orig tok_orig="Life">
+<s_type_orig s_type_orig="frag">
+<s_type s_type="frag">
+<pos pos="NN">
+<head head="head">
+Life
+</head>
+</pos>
+</s_type>
+</s_type_orig>
+</tok_orig>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Nida">
+<pos pos="NP">
+Nida
+</pos>
+</tok_orig>
+<tok_orig tok_orig="was">
+<pos pos="VBD">
+was
+</pos>
+</tok_orig>
+<tok_orig tok_orig="born">
+<pos pos="VVN">
+born
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<ref ref="ref">
+<tok_orig tok_orig="Oklahoma">
+<pos pos="NP">
+Oklahoma
+</pos>
+</tok_orig>
+<tok_orig tok_orig="City">
+<pos pos="NP">
+City
+</pos>
+</tok_orig>
+</ref>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Oklahoma">
+<ref ref="ref">
+<pos pos="NP">
+Oklahoma
+</pos>
+</ref>
+</tok_orig>
+<tok_orig tok_orig="on">
+<pos pos="IN">
+on
+</pos>
+</tok_orig>
+<date_when date_when="1914-11-11">
+<tok_orig tok_orig="November">
+<pos pos="NP">
+November
+</pos>
+</tok_orig>
+<tok_orig tok_orig="11">
+<pos pos="CD">
+11
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1914">
+<pos pos="CD">
+1914
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="He">
+<pos pos="PP">
+He
+</pos>
+</tok_orig>
+<tok_orig tok_orig="became">
+<pos pos="VVD">
+became
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Christian">
+<pos pos="NP">
+Christian
+</pos>
+</tok_orig>
+<tok_orig tok_orig="at">
+<pos pos="IN">
+at
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="young">
+<pos pos="JJ">
+young
+</pos>
+</tok_orig>
+<tok_orig tok_orig="age">
+<pos pos="NN">
+age
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="when">
+<pos pos="WRB">
+when
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="responded">
+<pos pos="VVD">
+responded
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="altar">
+<pos pos="NN">
+altar
+</pos>
+</tok_orig>
+<tok_orig tok_orig="call">
+<pos pos="NN">
+call
+</pos>
+</tok_orig>
+<tok_orig tok_orig="at">
+<pos pos="IN">
+at
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="church">
+<pos pos="NN">
+church
+</pos>
+</tok_orig>
+<quote quote="quote">
+<tok_orig tok_orig=""">
+<pos pos="``">
+"
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="accept">
+<pos pos="VV">
+accept
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Christ">
+<pos pos="NP">
+Christ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="as">
+<pos pos="IN">
+as
+</pos>
+</tok_orig>
+<tok_orig tok_orig="my">
+<pos pos="PP$">
+my
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Saviour">
+<pos pos="NP">
+Saviour
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+<tok_orig tok_orig=""">
+<pos pos="''">
+"
+</pos>
+</tok_orig>
+</quote>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="He">
+<pos pos="PP">
+He
+</pos>
+</tok_orig>
+<tok_orig tok_orig="graduated">
+<pos pos="VVD">
+graduated
+</pos>
+</tok_orig>
+<ref ref="ref">
+<hi_rend hi_rend="italics blue">
+<tok_orig tok_orig="summa">
+<pos pos="FW">
+summa
+</pos>
+</tok_orig>
+<tok_orig tok_orig="cum">
+<pos pos="FW">
+cum
+</pos>
+</tok_orig>
+<tok_orig tok_orig="laude">
+<pos pos="FW">
+laude
+</pos>
+</tok_orig>
+</hi_rend>
+</ref>
+<tok_orig tok_orig="from">
+<pos pos="IN">
+from
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<ref ref="ref">
+<tok_orig tok_orig="University">
+<pos pos="NP">
+University
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="California">
+<pos pos="NP">
+California
+</pos>
+</tok_orig>
+</ref>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1936">
+<pos pos="CD">
+<date_when date_when="1936">
+1936
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="After">
+<pos pos="IN">
+After
+</pos>
+</tok_orig>
+<tok_orig tok_orig="graduating">
+<pos pos="VVG">
+graduating
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="attended">
+<pos pos="VVD">
+attended
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Camp">
+<pos pos="NP">
+Camp
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Wycliffe">
+<pos pos="NP">
+Wycliffe
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="where">
+<pos pos="WRB">
+where
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Bible">
+<pos pos="NP">
+Bible
+</pos>
+</tok_orig>
+<tok_orig tok_orig="translation">
+<pos pos="NN">
+translation
+</pos>
+</tok_orig>
+<tok_orig tok_orig="theory">
+<pos pos="NN">
+theory
+</pos>
+</tok_orig>
+<tok_orig tok_orig="was">
+<pos pos="VBD">
+was
+</pos>
+</tok_orig>
+<tok_orig tok_orig="taught">
+<pos pos="VVN">
+taught
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="He">
+<pos pos="PP">
+He
+</pos>
+</tok_orig>
+<tok_orig tok_orig="ministered">
+<pos pos="VVD">
+ministered
+</pos>
+</tok_orig>
+<tok_orig tok_orig="for">
+<pos pos="IN">
+for
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="short">
+<pos pos="JJ">
+short
+</pos>
+</tok_orig>
+<tok_orig tok_orig="time">
+<pos pos="NN">
+time
+</pos>
+</tok_orig>
+<tok_orig tok_orig="among">
+<pos pos="IN">
+among
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<ref ref="ref">
+<tok_orig tok_orig="Tarahumara">
+<pos pos="NP">
+Tarahumara
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Indians">
+<pos pos="NPS">
+Indians
+</pos>
+</tok_orig>
+</ref>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Chihuahua">
+<ref ref="ref">
+<pos pos="NP">
+Chihuahua
+</pos>
+</ref>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Mexico">
+<pos pos="NP">
+Mexico
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="until">
+<pos pos="IN">
+until
+</pos>
+</tok_orig>
+<tok_orig tok_orig="health">
+<pos pos="NN">
+health
+</pos>
+</tok_orig>
+<tok_orig tok_orig="problems">
+<pos pos="NNS">
+problems
+</pos>
+</tok_orig>
+<tok_orig tok_orig="due">
+<pos pos="IN">
+due
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="an">
+<pos pos="DT">
+an
+</pos>
+</tok_orig>
+<tok_orig tok_orig="inadequate">
+<pos pos="JJ">
+inadequate
+</pos>
+</tok_orig>
+<tok_orig tok_orig="diet">
+<pos pos="NN">
+diet
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="high">
+<pos pos="JJ">
+high
+</pos>
+</tok_orig>
+<tok_orig tok_orig="altitude">
+<pos pos="NN">
+altitude
+</pos>
+</tok_orig>
+<tok_orig tok_orig="forced">
+<pos pos="VVD">
+forced
+</pos>
+</tok_orig>
+<tok_orig tok_orig="him">
+<pos pos="PP">
+him
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="leave">
+<pos pos="VV">
+leave
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Sometime">
+<pos pos="RB">
+Sometime
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="this">
+<pos pos="DT">
+this
+</pos>
+</tok_orig>
+<tok_orig tok_orig="period">
+<pos pos="NN">
+period
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Nida">
+<pos pos="NP">
+Nida
+</pos>
+</tok_orig>
+<tok_orig tok_orig="became">
+<pos pos="VVD">
+became
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="founding">
+<pos pos="VVG">
+founding
+</pos>
+</tok_orig>
+<tok_orig tok_orig="charter">
+<pos pos="NN">
+charter
+</pos>
+</tok_orig>
+<tok_orig tok_orig="member">
+<pos pos="NN">
+member
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<ref ref="ref">
+<tok_orig tok_orig="Wycliffe">
+<pos pos="NP">
+Wycliffe
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Bible">
+<pos pos="NP">
+Bible
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Translators">
+<pos pos="NPS">
+Translators
+</pos>
+</tok_orig>
+</ref>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="related">
+<pos pos="JJ">
+related
+</pos>
+</tok_orig>
+<tok_orig tok_orig="organization">
+<pos pos="NN">
+organization
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<ref ref="ref">
+<tok_orig tok_orig="Summer">
+<pos pos="NP">
+Summer
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Institute">
+<pos pos="NP">
+Institute
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Linguistics">
+<pos pos="NP">
+Linguistics
+</pos>
+</tok_orig>
+</ref>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="In">
+<pos pos="IN">
+In
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1937">
+<pos pos="CD">
+<date_when date_when="1937">
+1937
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Nida">
+<pos pos="NP">
+Nida
+</pos>
+</tok_orig>
+<tok_orig tok_orig="undertook">
+<pos pos="VVD">
+undertook
+</pos>
+</tok_orig>
+<tok_orig tok_orig="studies">
+<pos pos="NNS">
+studies
+</pos>
+</tok_orig>
+<tok_orig tok_orig="at">
+<pos pos="IN">
+at
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<ref ref="ref">
+<tok_orig tok_orig="University">
+<pos pos="NP">
+University
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Southern">
+<pos pos="NP">
+Southern
+</pos>
+</tok_orig>
+<tok_orig tok_orig="California">
+<pos pos="NP">
+California
+</pos>
+</tok_orig>
+</ref>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="where">
+<pos pos="WRB">
+where
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="obtained">
+<pos pos="VVD">
+obtained
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="master">
+<pos pos="NN">
+master
+</pos>
+</tok_orig>
+<tok_orig tok_orig="'s">
+<pos pos="POS">
+'s
+</pos>
+</tok_orig>
+<tok_orig tok_orig="degree">
+<pos pos="NN">
+degree
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="New">
+<pos pos="NP">
+New
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Testament">
+<pos pos="NP">
+Testament
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Greek">
+<pos pos="NP">
+Greek
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1939">
+<pos pos="CD">
+<date_when date_when="1939">
+1939
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="In">
+<pos pos="IN">
+In
+</pos>
+</tok_orig>
+<tok_orig tok_orig="that">
+<pos pos="DT">
+that
+</pos>
+</tok_orig>
+<tok_orig tok_orig="same">
+<pos pos="JJ">
+same
+</pos>
+</tok_orig>
+<tok_orig tok_orig="year">
+<pos pos="NN">
+year
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="became">
+<pos pos="VVD">
+became
+</pos>
+</tok_orig>
+<tok_orig tok_orig="interim">
+<pos pos="NN">
+interim
+</pos>
+</tok_orig>
+<tok_orig tok_orig="pastor">
+<pos pos="NN">
+pastor
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Calvary">
+<pos pos="NP">
+Calvary
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Church">
+<pos pos="NP">
+Church
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<ref ref="ref">
+<tok_orig tok_orig="Santa">
+<pos pos="NP">
+Santa
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Ana">
+<pos pos="NP">
+Ana
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="California">
+<pos pos="NP">
+California
+</pos>
+</tok_orig>
+</ref>
+<tok_orig tok_orig="following">
+<pos pos="VVG">
+following
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="resignation">
+<pos pos="NN">
+resignation
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="its">
+<pos pos="PP$">
+its
+</pos>
+</tok_orig>
+<tok_orig tok_orig="founding">
+<pos pos="VVG">
+founding
+</pos>
+</tok_orig>
+<tok_orig tok_orig="pastor">
+<pos pos="NN">
+pastor
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Despite">
+<pos pos="IN">
+Despite
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="conservative">
+<pos pos="JJ">
+conservative
+</pos>
+</tok_orig>
+<tok_orig tok_orig="background">
+<pos pos="NN">
+background
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="later">
+<pos pos="RBR">
+later
+</pos>
+</tok_orig>
+<tok_orig tok_orig="years">
+<pos pos="NNS">
+years
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Nida">
+<pos pos="NP">
+Nida
+</pos>
+</tok_orig>
+<tok_orig tok_orig="became">
+<pos pos="VVD">
+became
+</pos>
+</tok_orig>
+<tok_orig tok_orig="increasingly">
+<pos pos="RB">
+increasingly
+</pos>
+</tok_orig>
+<tok_orig tok_orig="ecumenical">
+<ref ref="ref">
+<pos pos="JJ">
+ecumenical
+</pos>
+</ref>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="New">
+<pos pos="NP">
+New
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Evangelical">
+<pos pos="NP">
+Evangelical
+</pos>
+</tok_orig>
+<add add="add">
+<tok_orig tok_orig="(">
+<pos pos="(">
+(
+</pos>
+</tok_orig>
+<tok_orig tok_orig="clarification">
+<pos pos="NN">
+clarification
+</pos>
+</tok_orig>
+<tok_orig tok_orig="needed">
+<pos pos="VVN">
+needed
+</pos>
+</tok_orig>
+<tok_orig tok_orig=")">
+<pos pos=")">
+)
+</pos>
+</tok_orig>
+</add>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="approach">
+<pos pos="NN">
+approach
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="In">
+<pos pos="IN">
+In
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1943">
+<pos pos="CD">
+<date_when date_when="1943">
+1943
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Nida">
+<pos pos="NP">
+Nida
+</pos>
+</tok_orig>
+<tok_orig tok_orig="received">
+<pos pos="VVD">
+received
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Ph.D.">
+<pos pos="NP">
+Ph.D.
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Linguistics">
+<pos pos="NP">
+Linguistics
+</pos>
+</tok_orig>
+<tok_orig tok_orig="from">
+<pos pos="IN">
+from
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="University">
+<pos pos="NP">
+University
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Michigan">
+<pos pos="NP">
+Michigan
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="He">
+<pos pos="PP">
+He
+</pos>
+</tok_orig>
+<tok_orig tok_orig="was">
+<pos pos="VBD">
+was
+</pos>
+</tok_orig>
+<tok_orig tok_orig="ordained">
+<pos pos="VVN">
+ordained
+</pos>
+</tok_orig>
+<tok_orig tok_orig="as">
+<pos pos="IN">
+as
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Baptist">
+<pos pos="NP">
+Baptist
+</pos>
+</tok_orig>
+<tok_orig tok_orig="minister">
+<pos pos="NN">
+minister
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="He">
+<pos pos="PP">
+He
+</pos>
+</tok_orig>
+<tok_orig tok_orig="married">
+<pos pos="VVD">
+married
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Althea">
+<pos pos="NP">
+Althea
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Lucille">
+<pos pos="NP">
+Lucille
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Sprague">
+<pos pos="NP">
+Sprague
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="who">
+<pos pos="WP">
+who
+</pos>
+</tok_orig>
+<tok_orig tok_orig="died">
+<pos pos="VVD">
+died
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1993">
+<pos pos="CD">
+<date_when date_when="1993">
+1993
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="In">
+<pos pos="IN">
+In
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1997">
+<pos pos="CD">
+<date_when date_when="1997">
+1997
+</date_when>
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="married">
+<pos pos="VVD">
+married
+</pos>
+</tok_orig>
+<tok_orig tok_orig="María">
+<pos pos="NP">
+María
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Elena">
+<pos pos="NP">
+Elena
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Fernandez-Miranda">
+<pos pos="NP">
+Fernandez-Miranda
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="lawyer">
+<pos pos="NN">
+lawyer
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="diplomatic">
+<pos pos="NN">
+diplomatic
+</pos>
+</tok_orig>
+<tok_orig tok_orig="attache">
+<pos pos="FW">
+attache
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Nida">
+<pos pos="NP">
+Nida
+</pos>
+</tok_orig>
+<tok_orig tok_orig="retired">
+<pos pos="VVD">
+retired
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<date_notBefore date_notBefore="1980">
+<tok_orig tok_orig="early">
+<pos pos="JJ">
+early
+</pos>
+</tok_orig>
+<tok_orig tok_orig="1980s">
+<pos pos="NNS">
+1980s
+</pos>
+</tok_orig>
+</date_notBefore>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="although">
+<pos pos="IN">
+although
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="continued">
+<pos pos="VVD">
+continued
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="give">
+<pos pos="VV">
+give
+</pos>
+</tok_orig>
+<tok_orig tok_orig="lectures">
+<pos pos="NNS">
+lectures
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="universities">
+<pos pos="NNS">
+universities
+</pos>
+</tok_orig>
+<tok_orig tok_orig="all">
+<pos pos="RB">
+all
+</pos>
+</tok_orig>
+<tok_orig tok_orig="around">
+<pos pos="IN">
+around
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="world">
+<pos pos="NN">
+world
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="lived">
+<pos pos="VVD">
+lived
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Alpine">
+<pos pos="NP">
+Alpine
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Arizona">
+<pos pos="NP">
+Arizona
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="USA">
+<pos pos="NP">
+USA
+</pos>
+</tok_orig>
+<tok_orig tok_orig=";">
+<pos pos=":">
+;
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Madrid">
+<pos pos="NP">
+Madrid
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Spain">
+<pos pos="NP">
+Spain
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Brussels">
+<ref ref="ref">
+<pos pos="NP">
+Brussels
+</pos>
+</ref>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Belgium">
+<ref ref="ref">
+<pos pos="NP">
+Belgium
+</pos>
+</ref>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="He">
+<pos pos="PP">
+He
+</pos>
+</tok_orig>
+<tok_orig tok_orig="died">
+<pos pos="VVD">
+died
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Madrid">
+<pos pos="NP">
+Madrid
+</pos>
+</tok_orig>
+<tok_orig tok_orig="on">
+<pos pos="IN">
+on
+</pos>
+</tok_orig>
+<date_when date_when="2011-08-25">
+<tok_orig tok_orig="August">
+<pos pos="NP">
+August
+</pos>
+</tok_orig>
+<tok_orig tok_orig="25">
+<pos pos="CD">
+25
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="2011">
+<pos pos="CD">
+2011
+</pos>
+</tok_orig>
+</date_when>
+<tok_orig tok_orig="aged">
+<pos pos="VVN">
+aged
+</pos>
+</tok_orig>
+<tok_orig tok_orig="96">
+<pos pos="CD">
+96
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<tok_orig tok_orig="Theories">
+<s_type_orig s_type_orig="frag">
+<s_type s_type="frag">
+<pos pos="NNS">
+<head head="head">
+Theories
+</head>
+</pos>
+</s_type>
+</s_type_orig>
+</tok_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<p p="p">
+<tok_orig tok_orig="Nida">
+<pos pos="NP">
+Nida
+</pos>
+</tok_orig>
+<tok_orig tok_orig="has">
+<pos pos="VHZ">
+has
+</pos>
+</tok_orig>
+<tok_orig tok_orig="been">
+<pos pos="VBN">
+been
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="pioneer">
+<pos pos="NN">
+pioneer
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="fields">
+<pos pos="NNS">
+fields
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<ref ref="ref">
+<tok_orig tok_orig="translation">
+<pos pos="NN">
+translation
+</pos>
+</tok_orig>
+<tok_orig tok_orig="theory">
+<pos pos="NN">
+theory
+</pos>
+</tok_orig>
+</ref>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="linguistics">
+<ref ref="ref">
+<pos pos="NN">
+linguistics
+</pos>
+</ref>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</p>
+</s_type>
+</s_type_orig>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="His">
+<pos pos="PP$">
+His
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Ph.D.">
+<pos pos="NP">
+Ph.D.
+</pos>
+</tok_orig>
+<tok_orig tok_orig="dissertation">
+<pos pos="NN">
+dissertation
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<hi_rend hi_rend="italics">
+<tok_orig tok_orig="A">
+<pos pos="NP">
+A
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Synopsis">
+<pos pos="NP">
+Synopsis
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="English">
+<pos pos="NP">
+English
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Syntax">
+<pos pos="NP">
+Syntax
+</pos>
+</tok_orig>
+</hi_rend>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="was">
+<pos pos="VBD">
+was
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="first">
+<pos pos="JJ">
+first
+</pos>
+</tok_orig>
+<tok_orig tok_orig="full-scale">
+<pos pos="JJ">
+full-scale
+</pos>
+</tok_orig>
+<tok_orig tok_orig="analysis">
+<pos pos="NN">
+analysis
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="major">
+<pos pos="JJ">
+major
+</pos>
+</tok_orig>
+<tok_orig tok_orig="language">
+<pos pos="NN">
+language
+</pos>
+</tok_orig>
+<tok_orig tok_orig="according">
+<pos pos="VVG">
+according
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<q q="q">
+<tok_orig tok_orig=""">
+<pos pos="``">
+"
+</pos>
+</tok_orig>
+<tok_orig tok_orig="immediate-constituent">
+<pos pos="JJ">
+immediate-constituent
+</pos>
+</tok_orig>
+<tok_orig tok_orig=""">
+<pos pos="''">
+"
+</pos>
+</tok_orig>
+</q>
+<tok_orig tok_orig="theory">
+<pos pos="NN">
+theory
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="His">
+<pos pos="PP$">
+His
+</pos>
+</tok_orig>
+<tok_orig tok_orig="textbook">
+<pos pos="NN">
+textbook
+</pos>
+</tok_orig>
+<hi_rend hi_rend="italics">
+<tok_orig tok_orig="Morphology">
+<pos pos="NP">
+Morphology
+</pos>
+</tok_orig>
+<tok_orig tok_orig=":">
+<pos pos=":">
+:
+</pos>
+</tok_orig>
+<tok_orig tok_orig="The">
+<pos pos="NP">
+The
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Descriptive">
+<pos pos="NP">
+Descriptive
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Analysis">
+<pos pos="NP">
+Analysis
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Words">
+<pos pos="NPS">
+Words
+</pos>
+</tok_orig>
+</hi_rend>
+<tok_orig tok_orig="was">
+<pos pos="VBD">
+was
+</pos>
+</tok_orig>
+<tok_orig tok_orig="one">
+<pos pos="CD">
+one
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="major">
+<pos pos="JJ">
+major
+</pos>
+</tok_orig>
+<tok_orig tok_orig="works">
+<pos pos="NNS">
+works
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="American">
+<pos pos="JJ">
+American
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Structuralism">
+<ref ref="ref">
+<pos pos="NP">
+Structuralism
+</pos>
+</ref>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="It">
+<pos pos="PP">
+It
+</pos>
+</tok_orig>
+<tok_orig tok_orig="remained">
+<pos pos="VVD">
+remained
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="only">
+<pos pos="JJ">
+only
+</pos>
+</tok_orig>
+<tok_orig tok_orig="thorough">
+<pos pos="JJ">
+thorough
+</pos>
+</tok_orig>
+<tok_orig tok_orig="introduction">
+<pos pos="NN">
+introduction
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="field">
+<pos pos="NN">
+field
+</pos>
+</tok_orig>
+<tok_orig tok_orig="for">
+<pos pos="IN">
+for
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decades">
+<pos pos="NNS">
+decades
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="is">
+<pos pos="VBZ">
+is
+</pos>
+</tok_orig>
+<tok_orig tok_orig="still">
+<pos pos="RB">
+still
+</pos>
+</tok_orig>
+<tok_orig tok_orig="valuable">
+<pos pos="JJ">
+valuable
+</pos>
+</tok_orig>
+<tok_orig tok_orig="for">
+<pos pos="CC">
+for
+</pos>
+</tok_orig>
+<tok_orig tok_orig="its">
+<pos pos="PP$">
+its
+</pos>
+</tok_orig>
+<tok_orig tok_orig="many">
+<pos pos="JJ">
+many
+</pos>
+</tok_orig>
+<tok_orig tok_orig="examples">
+<pos pos="NNS">
+examples
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="exercises">
+<pos pos="NNS">
+exercises
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="His">
+<pos pos="PP$">
+His
+</pos>
+</tok_orig>
+<tok_orig tok_orig="most">
+<pos pos="RBS">
+most
+</pos>
+</tok_orig>
+<tok_orig tok_orig="notable">
+<pos pos="JJ">
+notable
+</pos>
+</tok_orig>
+<tok_orig tok_orig="contribution">
+<pos pos="NN">
+contribution
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="translation">
+<pos pos="NN">
+translation
+</pos>
+</tok_orig>
+<tok_orig tok_orig="theory">
+<pos pos="NN">
+theory
+</pos>
+</tok_orig>
+<tok_orig tok_orig="is">
+<pos pos="VBZ">
+is
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Dynamic">
+<pos pos="NP">
+Dynamic
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Equivalence">
+<pos pos="NP">
+Equivalence
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="also">
+<pos pos="RB">
+also
+</pos>
+</tok_orig>
+<tok_orig tok_orig="known">
+<pos pos="VVN">
+known
+</pos>
+</tok_orig>
+<tok_orig tok_orig="as">
+<pos pos="IN">
+as
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Functional">
+<pos pos="NP">
+Functional
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Equivalence">
+<pos pos="NP">
+Equivalence
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="imp">
+<s_type s_type="imp">
+<tok_orig tok_orig="For">
+<pos pos="IN">
+For
+</pos>
+</tok_orig>
+<tok_orig tok_orig="more">
+<pos pos="JJR">
+more
+</pos>
+</tok_orig>
+<tok_orig tok_orig="information">
+<pos pos="NN">
+information
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="see">
+<pos pos="VV">
+see
+</pos>
+</tok_orig>
+<q q="q">
+<tok_orig tok_orig=""">
+<pos pos="``">
+"
+</pos>
+</tok_orig>
+<ref ref="ref">
+<tok_orig tok_orig="Dynamic">
+<pos pos="JJ">
+Dynamic
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="formal">
+<pos pos="JJ">
+formal
+</pos>
+</tok_orig>
+<tok_orig tok_orig="equivalence">
+<pos pos="NN">
+equivalence
+</pos>
+</tok_orig>
+</ref>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+<tok_orig tok_orig=""">
+<pos pos="''">
+"
+</pos>
+</tok_orig>
+</q>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Nida">
+<pos pos="NP">
+Nida
+</pos>
+</tok_orig>
+<tok_orig tok_orig="also">
+<pos pos="RB">
+also
+</pos>
+</tok_orig>
+<tok_orig tok_orig="developed">
+<pos pos="VVD">
+developed
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<ref ref="ref">
+<tok_orig tok_orig="componential">
+<pos pos="NN">
+componential
+</pos>
+</tok_orig>
+<tok_orig tok_orig="analysis">
+<pos pos="NN">
+analysis
+</pos>
+</tok_orig>
+</ref>
+<tok_orig tok_orig="technique">
+<pos pos="NN">
+technique
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="which">
+<pos pos="WDT">
+which
+</pos>
+</tok_orig>
+<tok_orig tok_orig="split">
+<pos pos="VVD">
+split
+</pos>
+</tok_orig>
+<tok_orig tok_orig="words">
+<pos pos="NNS">
+words
+</pos>
+</tok_orig>
+<tok_orig tok_orig="into">
+<pos pos="IN">
+into
+</pos>
+</tok_orig>
+<tok_orig tok_orig="their">
+<pos pos="PP$">
+their
+</pos>
+</tok_orig>
+<tok_orig tok_orig="components">
+<pos pos="NNS">
+components
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="IN">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="help">
+<pos pos="RB">
+help
+</pos>
+</tok_orig>
+<tok_orig tok_orig="determine">
+<pos pos="VV">
+determine
+</pos>
+</tok_orig>
+<tok_orig tok_orig="equivalence">
+<pos pos="NN">
+equivalence
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="translation">
+<pos pos="NN">
+translation
+</pos>
+</tok_orig>
+<tok_orig tok_orig="(">
+<pos pos="(">
+(
+</pos>
+</tok_orig>
+<tok_orig tok_orig="e.g.">
+<pos pos="FW">
+e.g.
+</pos>
+</tok_orig>
+<q q="q">
+<tok_orig tok_orig=""">
+<pos pos="``">
+"
+</pos>
+</tok_orig>
+<tok_orig tok_orig="bachelor">
+<ref ref="ref">
+<pos pos="NN">
+bachelor
+</pos>
+</ref>
+</tok_orig>
+<tok_orig tok_orig=""">
+<pos pos="''">
+"
+</pos>
+</tok_orig>
+</q>
+<tok_orig tok_orig="=">
+<pos pos="SYM">
+=
+</pos>
+</tok_orig>
+<tok_orig tok_orig="male">
+<pos pos="NN">
+male
+</pos>
+</tok_orig>
+<tok_orig tok_orig="+">
+<pos pos="SYM">
++
+</pos>
+</tok_orig>
+<tok_orig tok_orig="unmarried">
+<pos pos="JJ">
+unmarried
+</pos>
+</tok_orig>
+<tok_orig tok_orig=")">
+<pos pos=")">
+)
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="This">
+<pos pos="DT">
+This
+</pos>
+</tok_orig>
+<tok_orig tok_orig="is">
+<pos pos="VBZ">
+is
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="perhaps">
+<pos pos="RB">
+perhaps
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="not">
+<pos pos="RB">
+not
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="best">
+<pos pos="JJS">
+best
+</pos>
+</tok_orig>
+<tok_orig tok_orig="example">
+<pos pos="NN">
+example
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="technique">
+<pos pos="NN">
+technique
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="though">
+<pos pos="IN">
+though
+</pos>
+</tok_orig>
+<tok_orig tok_orig="it">
+<pos pos="PP">
+it
+</pos>
+</tok_orig>
+<tok_orig tok_orig="is">
+<pos pos="VBZ">
+is
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="most">
+<pos pos="RBS">
+most
+</pos>
+</tok_orig>
+<tok_orig tok_orig="well-known">
+<pos pos="JJ">
+well-known
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<p p="p">
+<tok_orig tok_orig="Nida">
+<pos pos="NP">
+Nida
+</pos>
+</tok_orig>
+<tok_orig tok_orig="'s">
+<pos pos="POS">
+'s
+</pos>
+</tok_orig>
+<tok_orig tok_orig="dynamic-equivalence">
+<pos pos="JJ">
+dynamic-equivalence
+</pos>
+</tok_orig>
+<tok_orig tok_orig="theory">
+<pos pos="NN">
+theory
+</pos>
+</tok_orig>
+<tok_orig tok_orig="is">
+<pos pos="VBZ">
+is
+</pos>
+</tok_orig>
+<tok_orig tok_orig="often">
+<pos pos="RB">
+often
+</pos>
+</tok_orig>
+<tok_orig tok_orig="held">
+<pos pos="VVN">
+held
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="opposition">
+<pos pos="NN">
+opposition
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="views">
+<pos pos="NNS">
+views
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="philologists">
+<ref ref="ref">
+<pos pos="NNS">
+philologists
+</pos>
+</ref>
+</tok_orig>
+<tok_orig tok_orig="who">
+<pos pos="WP">
+who
+</pos>
+</tok_orig>
+<tok_orig tok_orig="maintain">
+<pos pos="VV">
+maintain
+</pos>
+</tok_orig>
+<tok_orig tok_orig="that">
+<pos pos="IN/that">
+that
+</pos>
+</tok_orig>
+<tok_orig tok_orig="an">
+<pos pos="DT">
+an
+</pos>
+</tok_orig>
+<tok_orig tok_orig="understanding">
+<pos pos="VVG">
+understanding
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<ref ref="ref">
+<tok_orig tok_orig="source">
+<pos pos="NN">
+source
+</pos>
+</tok_orig>
+<tok_orig tok_orig="text">
+<pos pos="NN">
+text
+</pos>
+</tok_orig>
+</ref>
+<tok_orig tok_orig="(">
+<pos pos="(">
+(
+</pos>
+</tok_orig>
+<tok_orig tok_orig="ST">
+<pos pos="NP">
+ST
+</pos>
+</tok_orig>
+<tok_orig tok_orig=")">
+<pos pos=")">
+)
+</pos>
+</tok_orig>
+<tok_orig tok_orig="can">
+<pos pos="MD">
+can
+</pos>
+</tok_orig>
+<tok_orig tok_orig="be">
+<pos pos="VB">
+be
+</pos>
+</tok_orig>
+<tok_orig tok_orig="achieved">
+<pos pos="VVN">
+achieved
+</pos>
+</tok_orig>
+<tok_orig tok_orig="by">
+<pos pos="IN">
+by
+</pos>
+</tok_orig>
+<tok_orig tok_orig="assessing">
+<pos pos="VVG">
+assessing
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="inter-animation">
+<pos pos="JJ">
+inter-animation
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="words">
+<pos pos="NNS">
+words
+</pos>
+</tok_orig>
+<tok_orig tok_orig="on">
+<pos pos="IN">
+on
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="page">
+<pos pos="NN">
+page
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="that">
+<pos pos="IN/that">
+that
+</pos>
+</tok_orig>
+<tok_orig tok_orig="meaning">
+<pos pos="NN">
+meaning
+</pos>
+</tok_orig>
+<tok_orig tok_orig="is">
+<pos pos="VBZ">
+is
+</pos>
+</tok_orig>
+<tok_orig tok_orig="self-contained">
+<pos pos="JJ">
+self-contained
+</pos>
+</tok_orig>
+<tok_orig tok_orig="within">
+<pos pos="IN">
+within
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="text">
+<pos pos="NN">
+text
+</pos>
+</tok_orig>
+<tok_orig tok_orig="(">
+<pos pos="(">
+(
+</pos>
+</tok_orig>
+<tok_orig tok_orig="i.e.">
+<pos pos="FW">
+i.e.
+</pos>
+</tok_orig>
+<tok_orig tok_orig="much">
+<pos pos="RB">
+much
+</pos>
+</tok_orig>
+<tok_orig tok_orig="more">
+<pos pos="RBR">
+more
+</pos>
+</tok_orig>
+<tok_orig tok_orig="focused">
+<pos pos="VVD">
+focused
+</pos>
+</tok_orig>
+<tok_orig tok_orig="on">
+<pos pos="IN">
+on
+</pos>
+</tok_orig>
+<tok_orig tok_orig="achieving">
+<pos pos="VVG">
+achieving
+</pos>
+</tok_orig>
+<tok_orig tok_orig="semantic">
+<pos pos="NN">
+semantic
+</pos>
+</tok_orig>
+<tok_orig tok_orig="equivalence">
+<pos pos="NN">
+equivalence
+</pos>
+</tok_orig>
+<tok_orig tok_orig=")">
+<pos pos=")">
+)
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</p>
+</s_type>
+</s_type_orig>
+<p p="p">
+<s_type s_type="decl">
+<s_type_orig s_type_orig="decl">
+<tok_orig tok_orig="This">
+<pos pos="DT">
+This
+</pos>
+</tok_orig>
+<tok_orig tok_orig="theory">
+<pos pos="NN">
+theory
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="along">
+<pos pos="IN">
+along
+</pos>
+</tok_orig>
+<tok_orig tok_orig="with">
+<pos pos="IN">
+with
+</pos>
+</tok_orig>
+<tok_orig tok_orig="other">
+<pos pos="JJ">
+other
+</pos>
+</tok_orig>
+<tok_orig tok_orig="theories">
+<pos pos="NNS">
+theories
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="correspondence">
+<pos pos="NN">
+correspondence
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="translating">
+<pos pos="VVG">
+translating
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="are">
+<pos pos="VBP">
+are
+</pos>
+</tok_orig>
+<tok_orig tok_orig="elaborated">
+<pos pos="VVN">
+elaborated
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="his">
+<pos pos="PP$">
+his
+</pos>
+</tok_orig>
+<tok_orig tok_orig="essay">
+<pos pos="NN">
+essay
+</pos>
+</tok_orig>
+<ref ref="ref">
+<hi_rend hi_rend="italics">
+<tok_orig tok_orig="Principles">
+<pos pos="NPS">
+Principles
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Correspondence">
+<pos pos="NP">
+Correspondence
+</pos>
+</tok_orig>
+</hi_rend>
+</ref>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="where">
+<pos pos="WRB">
+where
+</pos>
+</tok_orig>
+<tok_orig tok_orig="Nida">
+<pos pos="NP">
+Nida
+</pos>
+</tok_orig>
+<tok_orig tok_orig="begins">
+<pos pos="VVZ">
+begins
+</pos>
+</tok_orig>
+<tok_orig tok_orig="by">
+<pos pos="IN">
+by
+</pos>
+</tok_orig>
+<tok_orig tok_orig="asserting">
+<pos pos="VVG">
+asserting
+</pos>
+</tok_orig>
+<tok_orig tok_orig="that">
+<pos pos="IN/that">
+that
+</pos>
+</tok_orig>
+<tok_orig tok_orig="given">
+<pos pos="VVN">
+given
+</pos>
+</tok_orig>
+<tok_orig tok_orig="that">
+<pos pos="IN/that">
+that
+</pos>
+</tok_orig>
+</s_type_orig>
+<quote quote="quote">
+<s_type_orig s_type_orig="decl">
+<tok_orig tok_orig=""">
+<pos pos="``">
+"
+</pos>
+</tok_orig>
+<tok_orig tok_orig="no">
+<pos pos="DT">
+no
+</pos>
+</tok_orig>
+<tok_orig tok_orig="two">
+<pos pos="CD">
+two
+</pos>
+</tok_orig>
+<tok_orig tok_orig="languages">
+<pos pos="NNS">
+languages
+</pos>
+</tok_orig>
+<tok_orig tok_orig="are">
+<pos pos="VBP">
+are
+</pos>
+</tok_orig>
+<tok_orig tok_orig="identical">
+<pos pos="JJ">
+identical
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="either">
+<pos pos="CC">
+either
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="meanings">
+<pos pos="NNS">
+meanings
+</pos>
+</tok_orig>
+<tok_orig tok_orig="given">
+<pos pos="VVN">
+given
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="corresponding">
+<pos pos="JJ">
+corresponding
+</pos>
+</tok_orig>
+<tok_orig tok_orig="symbols">
+<pos pos="NNS">
+symbols
+</pos>
+</tok_orig>
+<tok_orig tok_orig="or">
+<pos pos="CC">
+or
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="ways">
+<pos pos="NNS">
+ways
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="which">
+<pos pos="WDT">
+which
+</pos>
+</tok_orig>
+<tok_orig tok_orig="symbols">
+<pos pos="NNS">
+symbols
+</pos>
+</tok_orig>
+<tok_orig tok_orig="are">
+<pos pos="VBP">
+are
+</pos>
+</tok_orig>
+<tok_orig tok_orig="arranged">
+<pos pos="VVN">
+arranged
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="phrases">
+<pos pos="NNS">
+phrases
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="sentences">
+<pos pos="NNS">
+sentences
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="it">
+<pos pos="PP">
+it
+</pos>
+</tok_orig>
+<tok_orig tok_orig="stands">
+<pos pos="VVZ">
+stands
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="reason">
+<pos pos="VV">
+reason
+</pos>
+</tok_orig>
+<tok_orig tok_orig="that">
+<pos pos="IN/that">
+that
+</pos>
+</tok_orig>
+<tok_orig tok_orig="there">
+<pos pos="EX">
+there
+</pos>
+</tok_orig>
+<tok_orig tok_orig="can">
+<pos pos="MD">
+can
+</pos>
+</tok_orig>
+<tok_orig tok_orig="be">
+<pos pos="VB">
+be
+</pos>
+</tok_orig>
+<tok_orig tok_orig="no">
+<pos pos="DT">
+no
+</pos>
+</tok_orig>
+<tok_orig tok_orig="absolute">
+<pos pos="JJ">
+absolute
+</pos>
+</tok_orig>
+<tok_orig tok_orig="correspondence">
+<pos pos="NN">
+correspondence
+</pos>
+</tok_orig>
+<tok_orig tok_orig="between">
+<pos pos="IN">
+between
+</pos>
+</tok_orig>
+<tok_orig tok_orig="languages">
+<pos pos="NNS">
+languages
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type_orig>
+</s_type>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Hence">
+<pos pos="CC">
+Hence
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="there">
+<pos pos="EX">
+there
+</pos>
+</tok_orig>
+<tok_orig tok_orig="can">
+<pos pos="MD">
+can
+</pos>
+</tok_orig>
+<tok_orig tok_orig="be">
+<pos pos="VB">
+be
+</pos>
+</tok_orig>
+<tok_orig tok_orig="no">
+<pos pos="DT">
+no
+</pos>
+</tok_orig>
+<tok_orig tok_orig="fully">
+<pos pos="RB">
+fully
+</pos>
+</tok_orig>
+<tok_orig tok_orig="exact">
+<pos pos="JJ">
+exact
+</pos>
+</tok_orig>
+<tok_orig tok_orig="translations">
+<pos pos="NNS">
+translations
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+<tok_orig tok_orig=""">
+<pos pos="''">
+"
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</quote>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="While">
+<pos pos="IN">
+While
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="impact">
+<pos pos="NN">
+impact
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="translation">
+<pos pos="NN">
+translation
+</pos>
+</tok_orig>
+<tok_orig tok_orig="may">
+<pos pos="MD">
+may
+</pos>
+</tok_orig>
+<tok_orig tok_orig="be">
+<pos pos="VB">
+be
+</pos>
+</tok_orig>
+<tok_orig tok_orig="close">
+<pos pos="JJ">
+close
+</pos>
+</tok_orig>
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="original">
+<pos pos="NN">
+original
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="there">
+<pos pos="EX">
+there
+</pos>
+</tok_orig>
+<tok_orig tok_orig="can">
+<pos pos="MD">
+can
+</pos>
+</tok_orig>
+<tok_orig tok_orig="be">
+<pos pos="VB">
+be
+</pos>
+</tok_orig>
+<tok_orig tok_orig="no">
+<pos pos="DT">
+no
+</pos>
+</tok_orig>
+<tok_orig tok_orig="identity">
+<pos pos="NN">
+identity
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="detail">
+<pos pos="NN">
+detail
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Nida">
+<pos pos="NP">
+Nida
+</pos>
+</tok_orig>
+<tok_orig tok_orig="then">
+<pos pos="RB">
+then
+</pos>
+</tok_orig>
+<tok_orig tok_orig="sets">
+<pos pos="VVZ">
+sets
+</pos>
+</tok_orig>
+<tok_orig tok_orig="forth">
+<pos pos="RP">
+forth
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="differences">
+<pos pos="NNS">
+differences
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="translation">
+<pos pos="NN">
+translation
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="as">
+<pos pos="IN">
+as
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="would">
+<pos pos="MD">
+would
+</pos>
+</tok_orig>
+<tok_orig tok_orig="account">
+<pos pos="VV">
+account
+</pos>
+</tok_orig>
+<tok_orig tok_orig="for">
+<pos pos="IN">
+for
+</pos>
+</tok_orig>
+<tok_orig tok_orig="it">
+<pos pos="PP">
+it
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="within">
+<pos pos="IN">
+within
+</pos>
+</tok_orig>
+<tok_orig tok_orig="three">
+<pos pos="CD">
+three
+</pos>
+</tok_orig>
+<tok_orig tok_orig="basic">
+<pos pos="JJ">
+basic
+</pos>
+</tok_orig>
+<tok_orig tok_orig="factors">
+<pos pos="NNS">
+factors
+</pos>
+</tok_orig>
+<tok_orig tok_orig=":">
+<pos pos=":">
+:
+</pos>
+</tok_orig>
+</s_type>
+</s_type_orig>
+<list_type list_type="ordered">
+<s_type_orig s_type_orig="decl">
+<item_n item_n="1">
+<s_type s_type="frag">
+<tok_orig tok_orig="The">
+<pos pos="DT">
+The
+</pos>
+</tok_orig>
+<tok_orig tok_orig="nature">
+<pos pos="NN">
+nature
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="message">
+<pos pos="NN">
+message
+</pos>
+</tok_orig>
+<tok_orig tok_orig=":">
+<pos pos=":">
+:
+</pos>
+</tok_orig>
+</s_type>
+<s_type s_type="decl">
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="some">
+<pos pos="DT">
+some
+</pos>
+</tok_orig>
+<tok_orig tok_orig="messages">
+<pos pos="NNS">
+messages
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="content">
+<pos pos="NN">
+content
+</pos>
+</tok_orig>
+<tok_orig tok_orig="is">
+<pos pos="VBZ">
+is
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="primary">
+<pos pos="JJ">
+primary
+</pos>
+</tok_orig>
+<tok_orig tok_orig="consideration">
+<pos pos="NN">
+consideration
+</pos>
+</tok_orig>
+<tok_orig tok_orig=",">
+<pos pos=",">
+,
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="others">
+<pos pos="NNS">
+others
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="form">
+<pos pos="NN">
+form
+</pos>
+</tok_orig>
+<tok_orig tok_orig="must">
+<pos pos="MD">
+must
+</pos>
+</tok_orig>
+<tok_orig tok_orig="be">
+<pos pos="VB">
+be
+</pos>
+</tok_orig>
+<tok_orig tok_orig="given">
+<pos pos="VVN">
+given
+</pos>
+</tok_orig>
+<tok_orig tok_orig="a">
+<pos pos="DT">
+a
+</pos>
+</tok_orig>
+<tok_orig tok_orig="higher">
+<pos pos="JJR">
+higher
+</pos>
+</tok_orig>
+<tok_orig tok_orig="priority">
+<pos pos="NN">
+priority
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</item_n>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<item_n item_n="2">
+<s_type s_type="frag">
+<tok_orig tok_orig="The">
+<pos pos="DT">
+The
+</pos>
+</tok_orig>
+<tok_orig tok_orig="purpose">
+<pos pos="NN">
+purpose
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="author">
+<pos pos="NN">
+author
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="translator">
+<pos pos="NN">
+translator
+</pos>
+</tok_orig>
+<tok_orig tok_orig=":">
+<pos pos=":">
+:
+</pos>
+</tok_orig>
+</s_type>
+<s_type s_type="inf">
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="give">
+<pos pos="VV">
+give
+</pos>
+</tok_orig>
+<tok_orig tok_orig="information">
+<pos pos="NN">
+information
+</pos>
+</tok_orig>
+<tok_orig tok_orig="on">
+<pos pos="IN">
+on
+</pos>
+</tok_orig>
+<tok_orig tok_orig="both">
+<pos pos="DT">
+both
+</pos>
+</tok_orig>
+<tok_orig tok_orig="form">
+<pos pos="NN">
+form
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="content">
+<pos pos="NN">
+content
+</pos>
+</tok_orig>
+<tok_orig tok_orig=";">
+<pos pos=":">
+;
+</pos>
+</tok_orig>
+</s_type>
+<s_type s_type="inf">
+<tok_orig tok_orig="to">
+<pos pos="TO">
+to
+</pos>
+</tok_orig>
+<tok_orig tok_orig="aim">
+<pos pos="VV">
+aim
+</pos>
+</tok_orig>
+<tok_orig tok_orig="at">
+<pos pos="IN">
+at
+</pos>
+</tok_orig>
+<tok_orig tok_orig="full">
+<pos pos="JJ">
+full
+</pos>
+</tok_orig>
+<tok_orig tok_orig="intelligibility">
+<pos pos="NN">
+intelligibility
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="reader">
+<pos pos="NN">
+reader
+</pos>
+</tok_orig>
+<tok_orig tok_orig="so">
+<pos pos="IN">
+so
+</pos>
+</tok_orig>
+<tok_orig tok_orig="he">
+<pos pos="PP">
+he
+</pos>
+</tok_orig>
+<tok_orig tok_orig="/">
+<pos pos="SYM">
+/
+</pos>
+</tok_orig>
+<tok_orig tok_orig="she">
+<pos pos="PP">
+she
+</pos>
+</tok_orig>
+<tok_orig tok_orig="may">
+<pos pos="MD">
+may
+</pos>
+</tok_orig>
+<tok_orig tok_orig="understand">
+<pos pos="VV">
+understand
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="full">
+<pos pos="JJ">
+full
+</pos>
+</tok_orig>
+<tok_orig tok_orig="implications">
+<pos pos="NNS">
+implications
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="message">
+<pos pos="NN">
+message
+</pos>
+</tok_orig>
+<tok_orig tok_orig=";">
+<pos pos=":">
+;
+</pos>
+</tok_orig>
+</s_type>
+<s_type s_type="frag">
+<tok_orig tok_orig="for">
+<pos pos="IN">
+for
+</pos>
+</tok_orig>
+<tok_orig tok_orig="imperative">
+<pos pos="JJ">
+imperative
+</pos>
+</tok_orig>
+<tok_orig tok_orig="purposes">
+<pos pos="NNS">
+purposes
+</pos>
+</tok_orig>
+<tok_orig tok_orig="that">
+<pos pos="IN/that">
+that
+</pos>
+</tok_orig>
+<tok_orig tok_orig="aim">
+<pos pos="VV">
+aim
+</pos>
+</tok_orig>
+<tok_orig tok_orig="at">
+<pos pos="IN">
+at
+</pos>
+</tok_orig>
+<tok_orig tok_orig="not">
+<pos pos="RB">
+not
+</pos>
+</tok_orig>
+<tok_orig tok_orig="just">
+<pos pos="RB">
+just
+</pos>
+</tok_orig>
+<tok_orig tok_orig="understanding">
+<pos pos="VVG">
+understanding
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="translation">
+<pos pos="NN">
+translation
+</pos>
+</tok_orig>
+<tok_orig tok_orig="but">
+<pos pos="CC">
+but
+</pos>
+</tok_orig>
+<tok_orig tok_orig="also">
+<pos pos="RB">
+also
+</pos>
+</tok_orig>
+<tok_orig tok_orig="at">
+<pos pos="IN">
+at
+</pos>
+</tok_orig>
+<tok_orig tok_orig="ensuring">
+<pos pos="VVG">
+ensuring
+</pos>
+</tok_orig>
+<tok_orig tok_orig="no">
+<pos pos="DT">
+no
+</pos>
+</tok_orig>
+<tok_orig tok_orig="misunderstanding">
+<pos pos="NN">
+misunderstanding
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="the">
+<pos pos="DT">
+the
+</pos>
+</tok_orig>
+<tok_orig tok_orig="translation">
+<pos pos="NN">
+translation
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</item_n>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<item_n item_n="3">
+<s_type s_type="frag">
+<tok_orig tok_orig="The">
+<pos pos="DT">
+The
+</pos>
+</tok_orig>
+<tok_orig tok_orig="type">
+<pos pos="NN">
+type
+</pos>
+</tok_orig>
+<tok_orig tok_orig="of">
+<pos pos="IN">
+of
+</pos>
+</tok_orig>
+<tok_orig tok_orig="audience">
+<pos pos="NN">
+audience
+</pos>
+</tok_orig>
+<tok_orig tok_orig=":">
+<pos pos=":">
+:
+</pos>
+</tok_orig>
+</s_type>
+<s_type s_type="decl">
+<tok_orig tok_orig="prospective">
+<pos pos="JJ">
+prospective
+</pos>
+</tok_orig>
+<tok_orig tok_orig="audiences">
+<pos pos="NNS">
+audiences
+</pos>
+</tok_orig>
+<tok_orig tok_orig="differ">
+<pos pos="VV">
+differ
+</pos>
+</tok_orig>
+<tok_orig tok_orig="both">
+<pos pos="DT">
+both
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="decoding">
+<ref ref="ref">
+<pos pos="VVG">
+decoding
+</pos>
+</ref>
+</tok_orig>
+<tok_orig tok_orig="ability">
+<pos pos="NN">
+ability
+</pos>
+</tok_orig>
+<tok_orig tok_orig="and">
+<pos pos="CC">
+and
+</pos>
+</tok_orig>
+<tok_orig tok_orig="in">
+<pos pos="IN">
+in
+</pos>
+</tok_orig>
+<tok_orig tok_orig="potential">
+<pos pos="JJ">
+potential
+</pos>
+</tok_orig>
+<tok_orig tok_orig="interest">
+<pos pos="NN">
+interest
+</pos>
+</tok_orig>
+<tok_orig tok_orig=".">
+<pos pos="SENT">
+.
+</pos>
+</tok_orig>
+</s_type>
+</item_n>
+</s_type_orig>
+</list_type>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Nida">
+<pos pos="NP">
+Nida
+</pos>
+</tok_orig>
+<tok_orig tok_orig="brings">
+brings
+</tok_orig>
+<tok_orig tok_orig="in">
+in
+</tok_orig>
+<tok_orig tok_orig="the">
+the
+</tok_orig>
+<tok_orig tok_orig="reminder">
+reminder
+</tok_orig>
+<tok_orig tok_orig="that">
+that
+</tok_orig>
+<tok_orig tok_orig="while">
+while
+</tok_orig>
+<tok_orig tok_orig="there">
+there
+</tok_orig>
+<tok_orig tok_orig="are">
+are
+</tok_orig>
+<tok_orig tok_orig="no">
+no
+</tok_orig>
+<tok_orig tok_orig="such">
+such
+</tok_orig>
+<tok_orig tok_orig="things">
+things
+</tok_orig>
+<tok_orig tok_orig="as">
+as
+</tok_orig>
+<q q="q">
+<tok_orig tok_orig=""">
+"
+</tok_orig>
+<tok_orig tok_orig="identical">
+identical
+</tok_orig>
+<tok_orig tok_orig="equivalents">
+equivalents
+</tok_orig>
+<tok_orig tok_orig=""">
+"
+</tok_orig>
+</q>
+<tok_orig tok_orig="in">
+in
+</tok_orig>
+<tok_orig tok_orig="translating">
+translating
+</tok_orig>
+<tok_orig tok_orig=",">
+,
+</tok_orig>
+<tok_orig tok_orig="what">
+what
+</tok_orig>
+<tok_orig tok_orig="one">
+one
+</tok_orig>
+<tok_orig tok_orig="must">
+must
+</tok_orig>
+<tok_orig tok_orig="in">
+in
+</tok_orig>
+<tok_orig tok_orig="translating">
+translating
+</tok_orig>
+<tok_orig tok_orig="seek">
+seek
+</tok_orig>
+<tok_orig tok_orig="to">
+to
+</tok_orig>
+<tok_orig tok_orig="do">
+do
+</tok_orig>
+<tok_orig tok_orig="is">
+is
+</tok_orig>
+<tok_orig tok_orig="find">
+find
+</tok_orig>
+<tok_orig tok_orig="the">
+the
+</tok_orig>
+<q q="q">
+<tok_orig tok_orig=""">
+"
+</tok_orig>
+<tok_orig tok_orig="closest">
+closest
+</tok_orig>
+<tok_orig tok_orig="natural">
+natural
+</tok_orig>
+<tok_orig tok_orig="equivalent">
+equivalent
+</tok_orig>
+<tok_orig tok_orig=""">
+"
+</tok_orig>
+</q>
+<tok_orig tok_orig=".">
+.
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Here">
+Here
+</tok_orig>
+<tok_orig tok_orig="he">
+he
+</tok_orig>
+<tok_orig tok_orig="identifies">
+identifies
+</tok_orig>
+<tok_orig tok_orig="two">
+two
+</tok_orig>
+<tok_orig tok_orig="basic">
+basic
+</tok_orig>
+<tok_orig tok_orig="orientations">
+orientations
+</tok_orig>
+<tok_orig tok_orig="in">
+in
+</tok_orig>
+<tok_orig tok_orig="translating">
+translating
+</tok_orig>
+<tok_orig tok_orig="based">
+based
+</tok_orig>
+<tok_orig tok_orig="on">
+on
+</tok_orig>
+<tok_orig tok_orig="two">
+two
+</tok_orig>
+<tok_orig tok_orig="different">
+different
+</tok_orig>
+<tok_orig tok_orig="types">
+types
+</tok_orig>
+<tok_orig tok_orig="of">
+of
+</tok_orig>
+<tok_orig tok_orig="equivalence">
+equivalence
+</tok_orig>
+<tok_orig tok_orig=":">
+:
+</tok_orig>
+</s_type>
+<s_type s_type="frag">
+<tok_orig tok_orig="Formal">
+Formal
+</tok_orig>
+<tok_orig tok_orig="Equivalence">
+Equivalence
+</tok_orig>
+<tok_orig tok_orig="(">
+(
+</tok_orig>
+<tok_orig tok_orig="F-E">
+F-E
+</tok_orig>
+<tok_orig tok_orig=")">
+)
+</tok_orig>
+<tok_orig tok_orig="and">
+and
+</tok_orig>
+<tok_orig tok_orig="Dynamic">
+Dynamic
+</tok_orig>
+<tok_orig tok_orig="Equivalence">
+Equivalence
+</tok_orig>
+<tok_orig tok_orig="(">
+(
+</tok_orig>
+<tok_orig tok_orig="D-E">
+D-E
+</tok_orig>
+<tok_orig tok_orig=")">
+)
+</tok_orig>
+<tok_orig tok_orig=".">
+.
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<p p="p">
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="F-E">
+F-E
+</tok_orig>
+<tok_orig tok_orig="focuses">
+focuses
+</tok_orig>
+<tok_orig tok_orig="attention">
+attention
+</tok_orig>
+<tok_orig tok_orig="on">
+on
+</tok_orig>
+<tok_orig tok_orig="the">
+the
+</tok_orig>
+<tok_orig tok_orig="message">
+message
+</tok_orig>
+<tok_orig tok_orig="itself">
+itself
+</tok_orig>
+<tok_orig tok_orig=",">
+,
+</tok_orig>
+<tok_orig tok_orig="in">
+in
+</tok_orig>
+<tok_orig tok_orig="both">
+both
+</tok_orig>
+<tok_orig tok_orig="form">
+form
+</tok_orig>
+<tok_orig tok_orig="and">
+and
+</tok_orig>
+<tok_orig tok_orig="content">
+content
+</tok_orig>
+<tok_orig tok_orig=".">
+.
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="sub">
+<tok_orig tok_orig="Such">
+Such
+</tok_orig>
+<tok_orig tok_orig="translations">
+translations
+</tok_orig>
+<tok_orig tok_orig="then">
+then
+</tok_orig>
+<tok_orig tok_orig="would">
+would
+</tok_orig>
+<tok_orig tok_orig="be">
+be
+</tok_orig>
+<tok_orig tok_orig="concerned">
+concerned
+</tok_orig>
+<tok_orig tok_orig="with">
+with
+</tok_orig>
+<tok_orig tok_orig="such">
+such
+</tok_orig>
+<tok_orig tok_orig="correspondences">
+<ref ref="ref">
+correspondences
+</ref>
+</tok_orig>
+<tok_orig tok_orig="as">
+as
+</tok_orig>
+<tok_orig tok_orig="poetry">
+<ref ref="ref">
+poetry
+</ref>
+</tok_orig>
+<tok_orig tok_orig="to">
+to
+</tok_orig>
+<tok_orig tok_orig="poetry">
+poetry
+</tok_orig>
+<tok_orig tok_orig=",">
+,
+</tok_orig>
+<tok_orig tok_orig="sentence">
+<ref ref="ref">
+sentence
+</ref>
+</tok_orig>
+<tok_orig tok_orig="to">
+to
+</tok_orig>
+<tok_orig tok_orig="sentence">
+sentence
+</tok_orig>
+<tok_orig tok_orig=",">
+,
+</tok_orig>
+<tok_orig tok_orig="and">
+and
+</tok_orig>
+<tok_orig tok_orig="concept">
+<ref ref="ref">
+concept
+</ref>
+</tok_orig>
+<tok_orig tok_orig="to">
+to
+</tok_orig>
+<tok_orig tok_orig="concept">
+concept
+</tok_orig>
+<tok_orig tok_orig=".">
+.
+</tok_orig>
+</s_type>
+</s_type_orig>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="decl">
+<tok_orig tok_orig="Such">
+Such
+</tok_orig>
+<tok_orig tok_orig="a">
+a
+</tok_orig>
+<tok_orig tok_orig="formal">
+formal
+</tok_orig>
+<tok_orig tok_orig="orientation">
+orientation
+</tok_orig>
+<tok_orig tok_orig="that">
+that
+</tok_orig>
+<tok_orig tok_orig="typifies">
+typifies
+</tok_orig>
+<tok_orig tok_orig="this">
+this
+</tok_orig>
+<tok_orig tok_orig="type">
+type
+</tok_orig>
+<tok_orig tok_orig="of">
+of
+</tok_orig>
+<tok_orig tok_orig="structural">
+structural
+</tok_orig>
+<tok_orig tok_orig="equivalence">
+equivalence
+</tok_orig>
+<tok_orig tok_orig="is">
+is
+</tok_orig>
+<tok_orig tok_orig="called">
+called
+</tok_orig>
+<tok_orig tok_orig="a">
+a
+</tok_orig>
+<q q="q">
+<tok_orig tok_orig=""">
+"
+</tok_orig>
+<tok_orig tok_orig="gloss">
+gloss
+</tok_orig>
+<tok_orig tok_orig="translation">
+translation
+</tok_orig>
+<tok_orig tok_orig=""">
+"
+</tok_orig>
+</q>
+<tok_orig tok_orig="in">
+in
+</tok_orig>
+<tok_orig tok_orig="which">
+which
+</tok_orig>
+<tok_orig tok_orig="the">
+the
+</tok_orig>
+<tok_orig tok_orig="translator">
+translator
+</tok_orig>
+<tok_orig tok_orig="aims">
+aims
+</tok_orig>
+<tok_orig tok_orig="at">
+at
+</tok_orig>
+<tok_orig tok_orig="reproducing">
+reproducing
+</tok_orig>
+<tok_orig tok_orig="as">
+as
+</tok_orig>
+<tok_orig tok_orig="literally">
+literally
+</tok_orig>
+<tok_orig tok_orig="and">
+and
+</tok_orig>
+<tok_orig tok_orig="meaningfully">
+meaningfully
+</tok_orig>
+<tok_orig tok_orig="as">
+as
+</tok_orig>
+<tok_orig tok_orig="possible">
+possible
+</tok_orig>
+<tok_orig tok_orig="the">
+the
+</tok_orig>
+<tok_orig tok_orig="form">
+form
+</tok_orig>
+<tok_orig tok_orig="and">
+and
+</tok_orig>
+<tok_orig tok_orig="content">
+content
+</tok_orig>
+<tok_orig tok_orig="of">
+of
+</tok_orig>
+<tok_orig tok_orig="the">
+the
+</tok_orig>
+<tok_orig tok_orig="original">
+original
+</tok_orig>
+<tok_orig tok_orig=".">
+.
+</tok_orig>
+</s_type>
+</s_type_orig>
+</p>
+<s_type_orig s_type_orig="decl">
+<s_type s_type="sub">
+<p p="p">
+<tok_orig tok_orig="The">
+The
+</tok_orig>
+<tok_orig tok_orig="principles">
+principles
+</tok_orig>
+<tok_orig tok_orig="governing">
+governing
+</tok_orig>
+<tok_orig tok_orig="an">
+an
+</tok_orig>
+<tok_orig tok_orig="F-E">
+F-E
+</tok_orig>
+<tok_orig tok_orig="translation">
+translation
+</tok_orig>
+<tok_orig tok_orig="would">
+would
+</tok_orig>
+<tok_orig tok_orig="then">
+then
+</tok_orig>
+<tok_orig tok_orig="be">
+be
+</tok_orig>
+<tok_orig tok_orig=":">
+:
+</tok_orig>
+<tok_orig tok_orig="reproduction">
+reproduction
+</tok_orig>
+<tok_orig tok_orig="of">
+of
+</tok_orig>
+<tok_orig tok_orig="grammatical">
+grammatical
+</tok_orig>
+<tok_orig tok_orig="units">
+units
+</tok_orig>
+<tok_orig tok_orig=";">
+;
+</tok_orig>
+<tok_orig tok_orig="consistency">
+consistency
+</tok_orig>
+<tok_orig tok_orig="in">
+in
+</tok_orig>
+<tok_orig tok_orig="word">
+word
+</tok_orig>
+<tok_orig tok_orig="usage">
+usage
+</tok_orig>
+<tok_orig tok_orig=";">
+;
+</tok_orig>
+<tok_orig tok_orig="and">
+and
+</tok_orig>
+<tok_orig tok_orig="meanings">
+meanings
+</tok_orig>
+<tok_orig tok_orig="in">
+in
+</tok_orig>
+<tok_orig tok_orig="terms">
+terms
+</tok_orig>
+<tok_orig tok_orig="of">
+of
+</tok_orig>
+<tok_orig tok_orig="the">
+the
+</tok_orig>
+<tok_orig tok_orig="source">
+source
+</tok_orig>
+<tok_orig tok_orig="context">
+<ref ref="ref">
+context
+</tok_orig>
+</ref>
+<tok_orig tok_orig=".">
+.
+</tok_orig>
+</p>
+</s_type>
+</s_type_orig>
+</meta>
