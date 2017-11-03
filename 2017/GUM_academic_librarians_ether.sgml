@@ -1,5 +1,4 @@
-<meta>
-<text_type text_type="academic">
+<meta author="Michiel Cock, Lotte Wilms" dateCollected="2017-09-13" dateCreated="2017-08-08" dateModified="2017-08-08" shortTitle="librarians" sourceURL="https://dh2017.adho.org/abstracts/455/455.pdf" speakerCount="0" speakerList="none" title="Digital Humanities Clinics - Leading Dutch Librarians into DH">
 <text_id text_id="GUM_academic_librarians">
 <head head="head">
 <s_type s_type="frag">
@@ -1251,13 +1250,13 @@ provide
 these
 </lemma>
 </pos>
-<sic sic="sic">
 <pos pos="JJ">
 <lemma lemma="educative">
+<sic sic="sic">
 educative
+</sic>
 </lemma>
 </pos>
-</sic>
 <pos pos="NNS">
 <lemma lemma="session">
 sessions
@@ -4116,5 +4115,4 @@ contexts
 </s_type>
 </p>
 </text_id>
-</text_type>
 </meta>
